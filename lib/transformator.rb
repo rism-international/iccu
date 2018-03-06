@@ -224,7 +224,7 @@ module Marcxml
           if name_a && name_b 
             last_name = name_a.content rescue ""
             first_name = name_b.content rescue "" 
-            full_name = "#{last_name}, #{first_name}"
+            full_name = "#{last_name}#{first_name}"
             name_a.content = full_name
             name_b.remove
           end

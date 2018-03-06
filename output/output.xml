@@ -5,25 +5,12 @@
   <controlfield tag="001">IT\ICCU\MUS\0053126</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053126</controlfield>
   <controlfield tag="005">20150224140503.9</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Costantini, , Alessandro</subfield>
+    <subfield code="a">Costantini, Alessandro</subfield>
     <subfield code="f"> &lt;ca. 1581-1657&gt;</subfield>
-    <subfield code="3">IT\ICCU\MUSV\018624</subfield>
-    <subfield code="4">230</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">O Admirabile Cummercium. Soprano, Contralto, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223968</subfield>
     <subfield code="9">Costantini, Alessandro &lt;ca. 1581-1657&gt;</subfield>
   </datafield>
@@ -32,38 +19,16 @@
   <controlfield tag="001">IT\ICCU\MUS\0053127</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053127</controlfield>
   <controlfield tag="005">20150224140235.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
 </record><record>
   <leader>01488ndm2a22003733i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053128</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053128</controlfield>
   <controlfield tag="005">20150224135621.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Gallus, , Jacobus</subfield>
-    <subfield code="3">IT\ICCU\LO1V\137002</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Gallus, Jacobus</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Dicunt infantes</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0023054</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
   </datafield>
@@ -72,24 +37,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053129</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053129</controlfield>
   <controlfield tag="005">20150224132713.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Palestrina, , Giovanni Pierluigi : da</subfield>
-    <subfield code="3">IT\ICCU\SBLV\039566</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Innocentes pro Christe. 3 Canti,Contralto</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0038733</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
@@ -98,24 +50,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053130</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053130</controlfield>
   <controlfield tag="005">20150224132301.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Marenzio, , Luca</subfield>
-    <subfield code="3">IT\ICCU\SBLV\035365</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Marenzio, Luca</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Innocentes pro Christo occisi sunt. Soprano,Mezzosoprano,Contralto,Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0038787</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
   </datafield>
@@ -124,24 +63,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053131</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053131</controlfield>
   <controlfield tag="005">20150224131834.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Clemens non papa, , Jacobus</subfield>
-    <subfield code="3">IT\ICCU\SBLV\121549</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Clemens non papa, Jacobus</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Vox in Rama audita est. Soprano, Contralto, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223971</subfield>
     <subfield code="9">Clemens non papa, Jacobus</subfield>
   </datafield>
@@ -150,38 +76,16 @@
   <controlfield tag="001">IT\ICCU\MUS\0053132</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053132</controlfield>
   <controlfield tag="005">20150224131651.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
 </record><record>
   <leader>01923ndm2a22003853i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053133</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053133</controlfield>
   <controlfield tag="005">20150224125801.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Palestrina, , Giovanni Pierluigi : da</subfield>
-    <subfield code="3">IT\ICCU\SBLV\039566</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Valde honorandus est.Cantus,Contralto,Tenore,Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223972</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
@@ -190,24 +94,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053134</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053134</controlfield>
   <controlfield tag="005">20150224125359.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Marenzio, , Luca</subfield>
-    <subfield code="3">IT\ICCU\SBLV\035365</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Marenzio, Luca</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Iste est Joannes. Soprano,Mezzosoprano,Contralto,Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223973</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
   </datafield>
@@ -216,24 +107,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053135</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053135</controlfield>
   <controlfield tag="005">20150224124827.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Nanino, , Giovanni Bernardino</subfield>
-    <subfield code="3">IT\ICCU\RAVV\107312</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Nanino, Giovanni Bernardino</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Hic est beatissimus EvangelistaSoprano, Contralto, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223974</subfield>
     <subfield code="9">Nanino, Giovanni Bernardino</subfield>
   </datafield>
@@ -242,24 +120,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053136</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053136</controlfield>
   <controlfield tag="005">20150224124410.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Marenzio, , Luca</subfield>
-    <subfield code="3">IT\ICCU\SBLV\035365</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Marenzio, Luca</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sepelierunt Stephanum. Soprano,Mezzosoprano,Contralto,Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223975</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
   </datafield>
@@ -268,24 +133,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053137</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053137</controlfield>
   <controlfield tag="005">20150224123907.9</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Nanino, , Giovanni Maria</subfield>
-    <subfield code="3">IT\ICCU\CFIV\078763</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Nanino, Giovanni Maria</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Lapidabant Stephanum</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0023056</subfield>
     <subfield code="9">Nanino, Giovanni Maria</subfield>
   </datafield>
@@ -294,39 +146,17 @@
   <controlfield tag="001">IT\ICCU\MUS\0053138</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053138</controlfield>
   <controlfield tag="005">20150224124200.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
 </record><record>
   <leader>01127ndm2a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053139</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053139</controlfield>
   <controlfield tag="005">20150224122055.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Costantini, , Alessandro</subfield>
+    <subfield code="a">Costantini, Alessandro</subfield>
     <subfield code="f"> &lt;ca. 1581-1657&gt;</subfield>
-    <subfield code="3">IT\ICCU\MUSV\018624</subfield>
-    <subfield code="4">230</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Pastores loquebantur</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223976</subfield>
     <subfield code="9">Costantini, Alessandro &lt;ca. 1581-1657&gt;</subfield>
   </datafield>
@@ -335,24 +165,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053140</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053140</controlfield>
   <controlfield tag="005">20150224121541.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Lasso, , Orlando : di</subfield>
-    <subfield code="3">IT\ICCU\MILV\127055</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Lasso, Orlando : di</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Hodie apparuit in Israel</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0023058</subfield>
     <subfield code="9">Lasso, Orlando : di</subfield>
   </datafield>
@@ -361,24 +178,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053112</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053112</controlfield>
   <controlfield tag="005">20150224155737.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Marenzio, , Luca</subfield>
-    <subfield code="3">IT\ICCU\SBLV\035365</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Marenzio, Luca</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Hodie Beata Virgo Maria. Soprano,Contralto,Tenore,Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0023047</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
   </datafield>
@@ -387,38 +191,16 @@
   <controlfield tag="001">IT\ICCU\MUS\0053113</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053113</controlfield>
   <controlfield tag="005">20150224155618.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
 </record><record>
   <leader>01725ndm2a22004093i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053114</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053114</controlfield>
   <controlfield tag="005">20150224155300.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Lasso, , Orlando : di</subfield>
-    <subfield code="3">IT\ICCU\MILV\127055</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Lasso, Orlando : di</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Dextera Domini.</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0023049</subfield>
     <subfield code="9">Lasso, Orlando : di</subfield>
   </datafield>
@@ -427,24 +209,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053115</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053115</controlfield>
   <controlfield tag="005">20150224155107.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Lasso, , Orlando : di</subfield>
-    <subfield code="3">IT\ICCU\MILV\127055</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Lasso, Orlando : di</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Jubilate deo</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0023050</subfield>
     <subfield code="9">Lasso, Orlando : di</subfield>
   </datafield>
@@ -453,24 +222,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053116</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053116</controlfield>
   <controlfield tag="005">20150224152442.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Gallus, , Jacobus</subfield>
-    <subfield code="3">IT\ICCU\LO1V\137002</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Gallus, Jacobus</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ab Oriente venerunt MagiSoprano, Contralto, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223960</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
   </datafield>
@@ -479,24 +235,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053117</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053117</controlfield>
   <controlfield tag="005">20150224151249.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Marenzio, , Luca</subfield>
-    <subfield code="3">IT\ICCU\SBLV\035365</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Marenzio, Luca</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Tribus miraculis. Soprano,Contralto,Tenore,Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223961</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
   </datafield>
@@ -505,24 +248,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053118</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053118</controlfield>
   <controlfield tag="005">20150224150456.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Goudimel, , Claude</subfield>
-    <subfield code="3">IT\ICCU\LO1V\176355</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Goudimel, Claude</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Videntes stellamSoprano, Contralto, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223962</subfield>
     <subfield code="9">Goudimel, Claude</subfield>
   </datafield>
@@ -531,38 +261,16 @@
   <controlfield tag="001">IT\ICCU\MUS\0053119</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053119</controlfield>
   <controlfield tag="005">20150224150054.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
 </record><record>
   <leader>01107ndm2a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053120</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053120</controlfield>
   <controlfield tag="005">20150224145630.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Da Vittoria, , C. L.</subfield>
-    <subfield code="3">IT\ICCU\MUSV\020329</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Da Vittoria, C. L.</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Jesu dulcis memoriaSoprano, Contralto, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223963</subfield>
     <subfield code="9">Da Vittoria, C. L.</subfield>
   </datafield>
@@ -571,24 +279,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053121</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053121</controlfield>
   <controlfield tag="005">20150224144541.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Palestrina, , Giovanni Pierluigi : da</subfield>
-    <subfield code="3">IT\ICCU\SBLV\039566</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">O bone Jesu, miserere. Soprano,Contralto,Tenore,Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0361532</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
@@ -597,24 +292,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053122</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053122</controlfield>
   <controlfield tag="005">20150224144015.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Pasquini, , Ercole</subfield>
-    <subfield code="3">IT\ICCU\CFIV\125091</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Pasquini, Ercole</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Jesu decus Angelicum. Soprano, Contralto, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223965</subfield>
     <subfield code="9">Pasquini, Ercole</subfield>
   </datafield>
@@ -623,24 +305,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053124</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053124</controlfield>
   <controlfield tag="005">20150224141431.9</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Lasso, , Orlando : di</subfield>
-    <subfield code="3">IT\ICCU\MILV\127055</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Lasso, Orlando : di</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ecce Maria genuit</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223966</subfield>
     <subfield code="9">Lasso, Orlando : di</subfield>
   </datafield>
@@ -649,24 +318,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053125</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053125</controlfield>
   <controlfield tag="005">20150224141031.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Marenzio, , Luca</subfield>
-    <subfield code="3">IT\ICCU\SBLV\035365</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Marenzio, Luca</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Magnum haereditatis misterium. Soprano,Contralto,Tenore,Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223967</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
   </datafield>
@@ -675,24 +331,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053141</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053141</controlfield>
   <controlfield tag="005">20150224121159.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Gallus, , Jacobus</subfield>
-    <subfield code="3">IT\ICCU\LO1V\137002</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Gallus, Jacobus</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Pueri concinite</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0023059</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
   </datafield>
@@ -701,24 +344,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053142</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053142</controlfield>
   <controlfield tag="005">20150224120345.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Gallus, , Jacobus</subfield>
-    <subfield code="3">IT\ICCU\LO1V\137002</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Gallus, Jacobus</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Natus est nobis Deus de Deo</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0023060</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
   </datafield>
@@ -727,24 +357,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053143</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053143</controlfield>
   <controlfield tag="005">20150224115756.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Porta, , Costanzo</subfield>
-    <subfield code="3">IT\ICCU\CFIV\125772</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Porta, Costanzo</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Hodie nobis de caelo</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223977</subfield>
     <subfield code="9">Porta, Costanzo</subfield>
   </datafield>
@@ -753,24 +370,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053144</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053144</controlfield>
   <controlfield tag="005">20150224115352.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Da Vittoria, , C. L.</subfield>
-    <subfield code="3">IT\ICCU\MUSV\020329</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Da Vittoria, C. L.</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">O magnum misterium</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223978</subfield>
     <subfield code="9">Da Vittoria, C. L.</subfield>
   </datafield>
@@ -779,24 +383,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053145</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053145</controlfield>
   <controlfield tag="005">20150224110023.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Zarlino, , Gioseffo</subfield>
-    <subfield code="3">IT\ICCU\SBLV\101841</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Zarlino, Gioseffo</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ecce iam venit plenitudo</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0023061</subfield>
     <subfield code="9">Zarlino, Gioseffo</subfield>
   </datafield>
@@ -805,24 +396,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053146</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053146</controlfield>
   <controlfield tag="005">20150224105051.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Ingegneri, , Marco Antonio</subfield>
-    <subfield code="3">IT\ICCU\LO1V\143836</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Ingegneri, Marco Antonio</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ecce enim evangelizo</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0023062</subfield>
     <subfield code="9">Ingegneri, Marco Antonio</subfield>
   </datafield>
@@ -831,24 +409,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053147</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053147</controlfield>
   <controlfield tag="005">20150218184130.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Nanino, , Giovanni Bernardino</subfield>
-    <subfield code="3">IT\ICCU\RAVV\107312</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Nanino, Giovanni Bernardino</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Hodie Christus Natus est</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0023063</subfield>
     <subfield code="9">Nanino, Giovanni Bernardino</subfield>
   </datafield>
@@ -857,25 +422,12 @@
   <controlfield tag="001">IT\ICCU\MUS\0053148</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053148</controlfield>
   <controlfield tag="005">20150224103857.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Turini, , Gregorio</subfield>
+    <subfield code="a">Turini, Gregorio</subfield>
     <subfield code="f"> &lt;1560-1600&gt;</subfield>
-    <subfield code="3">IT\ICCU\MUSV\065831</subfield>
-    <subfield code="4">230</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Hodie Christus</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223979</subfield>
     <subfield code="9">Turini, Gregorio &lt;1560-1600&gt;</subfield>
   </datafield>
@@ -884,24 +436,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053149</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053149</controlfield>
   <controlfield tag="005">20150224103022.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Palestrina, , Giovanni Pierluigi : da</subfield>
-    <subfield code="3">IT\ICCU\SBLV\039566</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Hodie Christus natus est.2 Canti,Contralto,Tenore</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0038734</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
@@ -910,24 +449,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053150</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053150</controlfield>
   <controlfield tag="005">20150218184922.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Marenzio, , Luca</subfield>
-    <subfield code="3">IT\ICCU\SBLV\035365</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Marenzio, Luca</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Hodie Christus natus est. Soprano,Mezzosoprano,Contralto,Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223981</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
   </datafield>
@@ -936,24 +462,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053151</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053151</controlfield>
   <controlfield tag="005">20150224104410.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Nanino, , Giovanni Bernardino</subfield>
-    <subfield code="3">IT\ICCU\RAVV\107312</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Nanino, Giovanni Bernardino</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Hodie nobis coelorum rex</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0023064</subfield>
     <subfield code="9">Nanino, Giovanni Bernardino</subfield>
   </datafield>
@@ -962,24 +475,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053152</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053152</controlfield>
   <controlfield tag="005">20150218183728.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Porta, , Costanzo</subfield>
-    <subfield code="3">IT\ICCU\CFIV\125772</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Porta, Costanzo</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Dies Sanctificatus</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223982</subfield>
     <subfield code="9">Porta, Costanzo</subfield>
   </datafield>
@@ -988,24 +488,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053153</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053153</controlfield>
   <controlfield tag="005">20150218182807.9</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Palestrina, , Giovanni Pierluigi : da</subfield>
-    <subfield code="3">IT\ICCU\SBLV\039566</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Missa Dies Sanctificatus. Soprano, Contralto, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223983</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
@@ -1014,38 +501,16 @@
   <controlfield tag="001">IT\ICCU\MUS\0053154</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053154</controlfield>
   <controlfield tag="005">20150218183040.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
 </record><record>
   <leader>01079ndm2a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053155</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053155</controlfield>
   <controlfield tag="005">20150218181836.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Jepkens, , Albert</subfield>
-    <subfield code="3">IT\ICCU\MUSV\035128</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Jepkens, Albert</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ave Maria. Soprano, 2 Contralti, Tenore</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223984</subfield>
     <subfield code="9">Jepkens, Albert</subfield>
   </datafield>
@@ -1054,24 +519,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053156</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053156</controlfield>
   <controlfield tag="005">20150218175406.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Lasso, , Orlando : di</subfield>
-    <subfield code="3">IT\ICCU\MILV\127055</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Lasso, Orlando : di</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ave Maria alta stirp. Contralto, 2 Tenori, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223985</subfield>
     <subfield code="9">Lasso, Orlando : di</subfield>
   </datafield>
@@ -1080,24 +532,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053157</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053157</controlfield>
   <controlfield tag="005">20150218174709.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Victoria, , Tom©Łs Luis : de</subfield>
-    <subfield code="3">IT\ICCU\SBLV\304499</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Victoria, Tom©Łs Luis : de</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ave Maria ...</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223986</subfield>
     <subfield code="9">Victoria, Tom©Łs Luis : de</subfield>
   </datafield>
@@ -1106,24 +545,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053158</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053158</controlfield>
   <controlfield tag="005">20150218174324.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Palestrina, , Giovanni Pierluigi : da</subfield>
-    <subfield code="3">IT\ICCU\SBLV\039566</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ave Maria. 2 Contralti, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0360449</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
@@ -1132,24 +558,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053159</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053159</controlfield>
   <controlfield tag="005">20150218173328.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Palestrina, , Giovanni Pierluigi : da</subfield>
-    <subfield code="3">IT\ICCU\SBLV\039566</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ave Maria. 2 Contralti, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0360449</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
@@ -1158,24 +571,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053160</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053160</controlfield>
   <controlfield tag="005">20150218172928.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Cannicciari, , Pompeo</subfield>
-    <subfield code="3">IT\ICCU\UBOV\120070</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Cannicciari, Pompeo</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ave Maria ...</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223988</subfield>
     <subfield code="9">Cannicciari, Pompeo</subfield>
   </datafield>
@@ -1184,25 +584,12 @@
   <controlfield tag="001">IT\ICCU\MUS\0053161</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053161</controlfield>
   <controlfield tag="005">20150218172600.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Casali, , Giovanni Battista</subfield>
+    <subfield code="a">Casali, Giovanni Battista</subfield>
     <subfield code="f"> &lt;ca. 1715-1792&gt;</subfield>
-    <subfield code="3">IT\ICCU\MUSV\014014</subfield>
-    <subfield code="4">230</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ave Maria ...</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223989</subfield>
     <subfield code="9">Casali, Giovanni Battista &lt;ca. 1715-1792&gt;</subfield>
   </datafield>
@@ -1211,24 +598,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053162</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053162</controlfield>
   <controlfield tag="005">20150218171310.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Nasco, , Giovanni</subfield>
-    <subfield code="3">IT\ICCU\UBOV\117501</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Nasco, Giovanni</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ave Maria ...</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223990</subfield>
     <subfield code="9">Nasco, Giovanni</subfield>
   </datafield>
@@ -1237,25 +611,12 @@
   <controlfield tag="001">IT\ICCU\MUS\0053163</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053163</controlfield>
   <controlfield tag="005">20150218170102.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Verdonck, , Cornelis</subfield>
+    <subfield code="a">Verdonck, Cornelis</subfield>
     <subfield code="f"> &lt;1563-1625&gt;</subfield>
-    <subfield code="3">IT\ICCU\MUSV\066993</subfield>
-    <subfield code="4">230</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ave Maria ...</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223991</subfield>
     <subfield code="9">Verdonck, Cornelis &lt;1563-1625&gt;</subfield>
   </datafield>
@@ -1264,24 +625,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053164</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053164</controlfield>
   <controlfield tag="005">20150218165604.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Arcadelt, , Jacob</subfield>
-    <subfield code="3">IT\ICCU\CFIV\147285</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Arcadelt, Jacob</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ave Maria, gratia plena</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223992</subfield>
     <subfield code="9">Arcadelt, Jacob</subfield>
   </datafield>
@@ -1290,24 +638,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053165</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053165</controlfield>
   <controlfield tag="005">20150218164633.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Gallus, , Jacobus</subfield>
-    <subfield code="3">IT\ICCU\LO1V\137002</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Gallus, Jacobus</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">De coelo veniet. Soprano, 2 Contralti, Tenore</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223993</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
   </datafield>
@@ -1316,24 +651,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053166</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053166</controlfield>
   <controlfield tag="005">20150218164056.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Gallus, , Jacobus</subfield>
-    <subfield code="3">IT\ICCU\LO1V\137002</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Gallus, Jacobus</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Egredietur virga</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223994</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
   </datafield>
@@ -1342,25 +664,12 @@
   <controlfield tag="001">IT\ICCU\MUS\0053167</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053167</controlfield>
   <controlfield tag="005">20150218163634.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Fux, , Johann Joseph</subfield>
+    <subfield code="a">Fux, Johann Joseph</subfield>
     <subfield code="f"> &lt;1660-1741&gt;</subfield>
-    <subfield code="3">IT\ICCU\SBLV\076985</subfield>
-    <subfield code="4">230</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Dicite:pusillanimes</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223995</subfield>
     <subfield code="9">Fux, Johann Joseph &lt;1660-1741&gt;</subfield>
   </datafield>
@@ -1369,24 +678,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053168</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053168</controlfield>
   <controlfield tag="005">20150218163036.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Cardoso, , Manuel</subfield>
-    <subfield code="3">IT\ICCU\LO1V\156855</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Cardoso, Manuel</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Cum audisset Joannes. Soprano, Contralto, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223996</subfield>
     <subfield code="9">Cardoso, Manuel</subfield>
   </datafield>
@@ -1395,24 +691,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053169</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053169</controlfield>
   <controlfield tag="005">20150218162243.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Porta, , Costanzo</subfield>
-    <subfield code="3">IT\ICCU\CFIV\125772</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Porta, Costanzo</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Suscipe Verbum Virgo Maria</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223997</subfield>
     <subfield code="9">Porta, Costanzo</subfield>
   </datafield>
@@ -1421,24 +704,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053170</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053170</controlfield>
   <controlfield tag="005">20150218161454.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Gallus, , Jacobus</subfield>
-    <subfield code="3">IT\ICCU\LO1V\137002</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Gallus, Jacobus</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Obsecro Domine</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223998</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
   </datafield>
@@ -1447,24 +717,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053171</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053171</controlfield>
   <controlfield tag="005">20150218160823.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Porta, , Costanzo</subfield>
-    <subfield code="3">IT\ICCU\CFIV\125772</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Porta, Costanzo</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Praeparate corda vestra. Contralto, 2 Tenori, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0223999</subfield>
     <subfield code="9">Porta, Costanzo</subfield>
   </datafield>
@@ -1473,24 +730,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053172</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053172</controlfield>
   <controlfield tag="005">20150218153925.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Gallus, , Jacobus</subfield>
-    <subfield code="3">IT\ICCU\LO1V\137002</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Gallus, Jacobus</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Praeparate corda vostra. 2 Tenori, 2 Bassi</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0224000</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
   </datafield>
@@ -1499,24 +743,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053173</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053173</controlfield>
   <controlfield tag="005">20150218153321.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Gallus, , Jacobus</subfield>
-    <subfield code="3">IT\ICCU\LO1V\137002</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Gallus, Jacobus</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ecce concipies. Soprano, Contralto, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0224001</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
   </datafield>
@@ -1525,24 +756,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0053174</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053174</controlfield>
   <controlfield tag="005">20150218152632.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Aiblinger, , Johann Kaspar</subfield>
-    <subfield code="3">IT\ICCU\MUSV\000567</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Aiblinger, Johann Kaspar</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Ad te Levavi. Soprano, Contralto, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0224002</subfield>
     <subfield code="9">Aiblinger, Johann Kaspar</subfield>
   </datafield>
@@ -1551,19 +769,8 @@
   <controlfield tag="001">IT\ICCU\MUS\0053175</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053175</controlfield>
   <controlfield tag="005">20150218150547.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="1">
     <subfield code="a">Proprium de Tempore. Soprano, Contralto, Tenore, Basso</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="1">
     <subfield code="3">IT\ICCU\CMP\0224004</subfield>
   </datafield>
 </record><record>
@@ -1571,44 +778,16 @@
   <controlfield tag="001">IT\ICCU\MUS\0053176</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053176</controlfield>
   <controlfield tag="005">20150218145621.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19201987||||0itac50      ba</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione anastatica del manoscritto</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Titolo attribuito.</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
 </record><record>
   <leader>01207ndm0a22003373i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0073987</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0073987</controlfield>
   <controlfield tag="005">20171024171608.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f19501994||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Napoli, , Jacopo</subfield>
-    <subfield code="3">IT\ICCU\NAPV\033763</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Napoli, Jacopo</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Riproduzione xerox di ms.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Terra lontana. Suspire... N.19</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0296332</subfield>
     <subfield code="9">Napoli, Jacopo</subfield>
   </datafield>
@@ -1617,19 +796,8 @@
   <controlfield tag="001">IT\ICCU\MUS\0081989</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0081989</controlfield>
   <controlfield tag="005">20141009083934.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f15401560||||0itac50      ba</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Macchie d'inchiostro blu sulla parte di soprano</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="1">
     <subfield code="a">Donne gentil' in voi si chiara</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="1">
     <subfield code="3">IT\ICCU\CMP\0563504</subfield>
   </datafield>
 </record><record>
@@ -1637,19 +805,8 @@
   <controlfield tag="001">IT\ICCU\MUS\0096792</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0096792</controlfield>
   <controlfield tag="005">20141014110838.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f15401560||||0itac50      ba</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">Manca certamente una parte di soprano</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="1">
     <subfield code="a">D'oro fiammeggian l'onde</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="1">
     <subfield code="3">IT\ICCU\CMP\0563479</subfield>
   </datafield>
 </record><record>
@@ -1657,18 +814,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252015</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252015</controlfield>
   <controlfield tag="005">20080116200415.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.292. mi minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403748</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1677,18 +827,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251930</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251930</controlfield>
   <controlfield tag="005">20080121191754.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.217. la minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403664</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1697,18 +840,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251928</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251928</controlfield>
   <controlfield tag="005">20080121191541.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.215. Mi maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403662</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1717,18 +853,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251929</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251929</controlfield>
   <controlfield tag="005">20080121191640.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.216. Mi maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403663</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1737,18 +866,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251931</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251931</controlfield>
   <controlfield tag="005">20080121191844.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.218. la minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403665</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1757,18 +879,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251937</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251937</controlfield>
   <controlfield tag="005">20080121182800.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.222. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403671</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1777,18 +892,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251938</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251938</controlfield>
   <controlfield tag="005">20080121182843.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.132. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403672</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1797,18 +905,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251947</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251947</controlfield>
   <controlfield tag="005">20080121183428.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.229. si bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403681</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1817,18 +918,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251939</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251939</controlfield>
   <controlfield tag="005">20080121182933.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.133. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403673</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1837,18 +931,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251946</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251946</controlfield>
   <controlfield tag="005">20080121183349.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.228. si bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403680</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1857,18 +944,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251957</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251957</controlfield>
   <controlfield tag="005">20080121184103.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.241. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403691</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1877,18 +957,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251948</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251948</controlfield>
   <controlfield tag="005">20080121183508.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.230. do minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403682</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1897,18 +970,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251956</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251956</controlfield>
   <controlfield tag="005">20080121184022.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.240. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403690</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1917,18 +983,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251965</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251965</controlfield>
   <controlfield tag="005">20080121175854.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.249. si bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403699</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1937,18 +996,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251958</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251958</controlfield>
   <controlfield tag="005">20080121184140.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.242. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403692</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1957,18 +1009,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251964</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251964</controlfield>
   <controlfield tag="005">20080121175818.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.248. si bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403698</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1977,18 +1022,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251974</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251974</controlfield>
   <controlfield tag="005">20080121180422.9</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.256. fa maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403708</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -1997,18 +1035,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251973</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251973</controlfield>
   <controlfield tag="005">20080121180347.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.255. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403707</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2017,18 +1048,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251982</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251982</controlfield>
   <controlfield tag="005">20080121180900.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.263. mi minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403716</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2037,18 +1061,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251981</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251981</controlfield>
   <controlfield tag="005">20080121180824.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.262. si maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403715</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2057,18 +1074,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251990</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251990</controlfield>
   <controlfield tag="005">20080121181646.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.177. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403724</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2077,18 +1087,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251983</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251983</controlfield>
   <controlfield tag="005">20080121180936.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.264. Mi maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403717</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2097,18 +1100,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251989</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251989</controlfield>
   <controlfield tag="005">20080121181605.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.273. si bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403723</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2117,18 +1113,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251998</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251998</controlfield>
   <controlfield tag="005">20080116195241.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.267. si bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403732</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2137,18 +1126,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251997</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251997</controlfield>
   <controlfield tag="005">20080116195203.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.266. si bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403731</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2157,18 +1139,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252012</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252012</controlfield>
   <controlfield tag="005">20080116200212.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.289. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403745</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2177,18 +1152,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252004</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252004</controlfield>
   <controlfield tag="005">20080116195632.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.282. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403737</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2197,18 +1165,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252005</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252005</controlfield>
   <controlfield tag="005">20080116195714.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.283. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403738</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2217,18 +1178,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252014</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252014</controlfield>
   <controlfield tag="005">20080116200333.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.291. mi minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403747</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2237,18 +1191,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252006</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252006</controlfield>
   <controlfield tag="005">20080116195757.9</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.284. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403739</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2257,18 +1204,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252022</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252022</controlfield>
   <controlfield tag="005">20080116200922.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.301. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403755</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2277,18 +1217,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252013</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252013</controlfield>
   <controlfield tag="005">20080116200253.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.290. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403746</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2297,18 +1230,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251999</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251999</controlfield>
   <controlfield tag="005">20080116195320.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.277. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403733</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2317,18 +1243,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252000</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252000</controlfield>
   <controlfield tag="005">20080116195401.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.278. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403734</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2337,18 +1256,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252001</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252001</controlfield>
   <controlfield tag="005">20080116195442.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.279. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403735</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2357,18 +1269,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252009</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252009</controlfield>
   <controlfield tag="005">20080116200002.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.265. la minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403742</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2377,18 +1282,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252002</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252002</controlfield>
   <controlfield tag="005">20080116195519.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.280. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403805</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2397,18 +1295,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252003</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252003</controlfield>
   <controlfield tag="005">20080116195556.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.281. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403736</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2417,18 +1308,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252007</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252007</controlfield>
   <controlfield tag="005">20080116195839.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.285. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403740</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2437,18 +1321,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252008</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252008</controlfield>
   <controlfield tag="005">20080116195917.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.286. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403741</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2457,24 +1334,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252010</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252010</controlfield>
   <controlfield tag="005">20080116200047.9</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">A c.32v: per organo da camera con due tastatura flautato, ©· (!) trombone.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.287. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403743</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2483,18 +1347,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252011</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252011</controlfield>
   <controlfield tag="005">20080116200128.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.288. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403744</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2503,18 +1360,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252016</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252016</controlfield>
   <controlfield tag="005">20080116200459.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.293. si minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403749</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2523,18 +1373,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252017</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252017</controlfield>
   <controlfield tag="005">20080116200546.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.294. re minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403750</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2543,18 +1386,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252018</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252018</controlfield>
   <controlfield tag="005">20080116200630.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.295. re minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403751</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2563,18 +1399,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252019</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252019</controlfield>
   <controlfield tag="005">20080116200712.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.298. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403752</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2583,18 +1412,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252020</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252020</controlfield>
   <controlfield tag="005">20080116200757.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.299. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403753</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2603,18 +1425,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252021</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252021</controlfield>
   <controlfield tag="005">20080116200841.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.300. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403754</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2623,19 +1438,12 @@
   <controlfield tag="001">IT\ICCU\MUS\0136132</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136132</controlfield>
   <controlfield tag="005">20070516145408.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Sarti, , Giuseppe</subfield>
+    <subfield code="a">Sarti, Giuseppe</subfield>
     <subfield code="f"> &lt;1729-1802&gt;</subfield>
-    <subfield code="3">IT\ICCU\RAVV\022420</subfield>
-    <subfield code="4">230</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Versetti. Soprano. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0339488</subfield>
     <subfield code="9">Sarti, Giuseppe &lt;1729-1802&gt;</subfield>
   </datafield>
@@ -2644,18 +1452,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0136110</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136110</controlfield>
   <controlfield tag="005">20070531122159.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Furlanetto, , Bonaventura</subfield>
-    <subfield code="3">IT\ICCU\MUSV\028042</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Furlanetto, Bonaventura</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Alma Redemptoris. Soprano,Orchestra. N.22. si bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0044253</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
@@ -2664,18 +1465,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251927</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251927</controlfield>
   <controlfield tag="005">20080121191445.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.205. fa maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403661</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2684,18 +1478,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0136090</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136090</controlfield>
   <controlfield tag="005">20070531115414.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Furlanetto, , Bonaventura</subfield>
-    <subfield code="3">IT\ICCU\MUSV\028042</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Furlanetto, Bonaventura</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Alma Redemptoris. Soprano,Orchestra. N.20. mi bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0042939</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
@@ -2704,18 +1491,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251925</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251925</controlfield>
   <controlfield tag="005">20080121191205.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.204a. fa minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403659</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2724,18 +1504,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251926</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251926</controlfield>
   <controlfield tag="005">20080121191251.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.204b. fa minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403660</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2744,18 +1517,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251932</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251932</controlfield>
   <controlfield tag="005">20080121191950.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.219. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403666</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2764,18 +1530,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251933</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251933</controlfield>
   <controlfield tag="005">20080121192041.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.220. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403667</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2784,18 +1543,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251941</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251941</controlfield>
   <controlfield tag="005">20080121183036.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.224. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403675</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2804,18 +1556,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251934</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251934</controlfield>
   <controlfield tag="005">20080121182538.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.206. Mi maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403668</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2824,18 +1569,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251935</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251935</controlfield>
   <controlfield tag="005">20080121182636.9</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.207. Mi maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403669</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2844,18 +1582,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251936</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251936</controlfield>
   <controlfield tag="005">20080121182727.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.221. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403670</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2864,18 +1595,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0136497</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136497</controlfield>
   <controlfield tag="005">20070531133735.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Furlanetto, , Bonaventura</subfield>
-    <subfield code="3">IT\ICCU\MUSV\028042</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Furlanetto, Bonaventura</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Alma Redemptoris. Soprano,Orchestra. N.26. fa maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0324544</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
@@ -2884,18 +1608,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251940</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251940</controlfield>
   <controlfield tag="005">20080121183004.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.223. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403674</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2904,18 +1621,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251952</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251952</controlfield>
   <controlfield tag="005">20080121183746.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.234. sol minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403686</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2924,18 +1634,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251942</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251942</controlfield>
   <controlfield tag="005">20080121183113.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.225. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403676</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2944,18 +1647,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251943</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251943</controlfield>
   <controlfield tag="005">20080121183141.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.226. do minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403677</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2964,18 +1660,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251944</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251944</controlfield>
   <controlfield tag="005">20080121183228.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.227. si minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403678</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -2984,18 +1673,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251945</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251945</controlfield>
   <controlfield tag="005">20080121183309.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.108. sol minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403679</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3004,18 +1686,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251949</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251949</controlfield>
   <controlfield tag="005">20080121183552.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.231. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403683</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3024,18 +1699,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251950</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251950</controlfield>
   <controlfield tag="005">20080121183631.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.232. mi minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403684</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3044,18 +1712,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251951</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251951</controlfield>
   <controlfield tag="005">20080121183709.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.233. mi minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403685</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3064,18 +1725,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251953</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251953</controlfield>
   <controlfield tag="005">20080121183826.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.235. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403687</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3084,18 +1738,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251954</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251954</controlfield>
   <controlfield tag="005">20080121183905.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.238. fa minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403688</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3104,18 +1751,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251955</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251955</controlfield>
   <controlfield tag="005">20080121183944.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.239. fa minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403689</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3124,18 +1764,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251959</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251959</controlfield>
   <controlfield tag="005">20080121184218.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.243. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403693</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3144,18 +1777,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251960</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251960</controlfield>
   <controlfield tag="005">20080121184303.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.244. si maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403694</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3164,18 +1790,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251961</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251961</controlfield>
   <controlfield tag="005">20080121184340.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.245. si maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403695</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3184,18 +1803,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251962</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251962</controlfield>
   <controlfield tag="005">20080121184416.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.246. do diesis minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403696</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3204,18 +1816,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251963</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251963</controlfield>
   <controlfield tag="005">20080121184454.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1752    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.247. do diesis minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403697</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3224,18 +1829,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251966</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251966</controlfield>
   <controlfield tag="005">20080121175933.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.236. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403700</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3244,18 +1842,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251967</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251967</controlfield>
   <controlfield tag="005">20080121180011.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.237. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403701</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3264,18 +1855,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251968</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251968</controlfield>
   <controlfield tag="005">20080121180047.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.250. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403702</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3284,18 +1868,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251969</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251969</controlfield>
   <controlfield tag="005">20080121180126.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.251. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403703</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3304,18 +1881,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251970</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251970</controlfield>
   <controlfield tag="005">20080121180204.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.252. mi bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403704</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3324,18 +1894,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251971</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251971</controlfield>
   <controlfield tag="005">20080121180235.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.253. mi bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403705</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3344,18 +1907,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251972</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251972</controlfield>
   <controlfield tag="005">20080121180313.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.254. do minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403706</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3364,18 +1920,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252030</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252030</controlfield>
   <controlfield tag="005">20080116191542.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.307. mi bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403763</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3384,18 +1933,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251975</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251975</controlfield>
   <controlfield tag="005">20080121180455.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.257. fa maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403709</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3404,24 +1946,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251976</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251976</controlfield>
   <controlfield tag="005">20080121180529.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
-    <subfield code="a">A c.25v: Antes de esta sonata se debe taner la q sigue, que es companera, y 1.a deesta.</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.53. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403710</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3430,18 +1959,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251987</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251987</controlfield>
   <controlfield tag="005">20080121181206.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.271. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403721</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3450,18 +1972,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251977</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251977</controlfield>
   <controlfield tag="005">20080121180604.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.258. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403711</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3470,18 +1985,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251978</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251978</controlfield>
   <controlfield tag="005">20080121180637.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.259. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403712</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3490,18 +1998,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251979</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251979</controlfield>
   <controlfield tag="005">20080121180711.9</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.260. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403713</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3510,18 +2011,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251980</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251980</controlfield>
   <controlfield tag="005">20080121180748.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.261. si maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403714</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3530,18 +2024,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252036</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252036</controlfield>
   <controlfield tag="005">20080116191835.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.313. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403769</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3550,18 +2037,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252037</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252037</controlfield>
   <controlfield tag="005">20080116191905.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.314. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403770</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3570,18 +2050,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252038</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252038</controlfield>
   <controlfield tag="005">20080116191938.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.315. sol minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403771</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3590,18 +2063,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252031</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252031</controlfield>
   <controlfield tag="005">20080116191610.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.308. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403764</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3610,18 +2076,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251984</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251984</controlfield>
   <controlfield tag="005">20080121181011.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.268. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403718</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3630,18 +2089,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251985</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251985</controlfield>
   <controlfield tag="005">20080121181048.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.269. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403719</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3650,18 +2102,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251986</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251986</controlfield>
   <controlfield tag="005">20080121181127.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.270. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403720</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3670,18 +2115,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251995</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251995</controlfield>
   <controlfield tag="005">20080116195051.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.275. fa maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403729</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3690,18 +2128,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251988</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251988</controlfield>
   <controlfield tag="005">20080121181525.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.272. si bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403722</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3710,18 +2141,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252044</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252044</controlfield>
   <controlfield tag="005">20080116192227.1</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.321. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403777</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3730,18 +2154,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252023</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252023</controlfield>
   <controlfield tag="005">20080116201005.9</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.296. fa maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403756</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3750,18 +2167,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252024</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252024</controlfield>
   <controlfield tag="005">20080116201039.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.297. fa maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403757</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3770,18 +2180,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252039</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252039</controlfield>
   <controlfield tag="005">20080116192006.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.316. fa maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403772</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3790,18 +2193,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251991</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251991</controlfield>
   <controlfield tag="005">20080121181722.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.178. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403725</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3810,18 +2206,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251992</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251992</controlfield>
   <controlfield tag="005">20080121181803.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.199. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403726</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3830,18 +2219,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251993</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251993</controlfield>
   <controlfield tag="005">20080121181839.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.200. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403727</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3850,18 +2232,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251994</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251994</controlfield>
   <controlfield tag="005">20080116194954.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.274. fa maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403728</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3870,18 +2245,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0251996</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251996</controlfield>
   <controlfield tag="005">20080116195126.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.276. fa maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403730</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3890,18 +2258,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252032</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252032</controlfield>
   <controlfield tag="005">20080116191640.7</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.309. do maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403765</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3910,18 +2271,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252025</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252025</controlfield>
   <controlfield tag="005">20080116191301.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.302. do minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403758</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3930,18 +2284,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252040</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252040</controlfield>
   <controlfield tag="005">20080116192035.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.317. fa maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403773</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3950,18 +2297,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252041</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252041</controlfield>
   <controlfield tag="005">20080116192106.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.318. fa diesis maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403774</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3970,18 +2310,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252027</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252027</controlfield>
   <controlfield tag="005">20080116191413.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.304. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403760</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -3990,13 +2323,8 @@
   <controlfield tag="001">IT\ICCU\MUS\0136011</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136011</controlfield>
   <controlfield tag="005">20130720184948.0</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101         ||||0itac50      ba</subfield>
-  </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="1">
     <subfield code="a">Boh©·me</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="1">
     <subfield code="3">IT\ICCU\CMP\0006563</subfield>
   </datafield>
 </record><record>
@@ -4004,18 +2332,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0136074</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136074</controlfield>
   <controlfield tag="005">20070531132101.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Furlanetto, , Bonaventura</subfield>
-    <subfield code="3">IT\ICCU\MUSV\028042</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Furlanetto, Bonaventura</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Alma Redemptoris. Soprano,Orchestra. N.25. fa maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0043407</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
@@ -4024,18 +2345,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252026</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252026</controlfield>
   <controlfield tag="005">20080116191340.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.303. do minore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403759</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -4044,18 +2358,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252033</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252033</controlfield>
   <controlfield tag="005">20080116191708.2</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.310. si bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403766</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -4064,18 +2371,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252028</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252028</controlfield>
   <controlfield tag="005">20080116191445.5</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.305. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403761</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
@@ -4084,18 +2384,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0136414</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136414</controlfield>
   <controlfield tag="005">20080805132810.3</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Furlanetto, , Bonaventura</subfield>
-    <subfield code="3">IT\ICCU\MUSV\028042</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Furlanetto, Bonaventura</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Triumphus Jepthe. N.21</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0242827</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
@@ -4104,18 +2397,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0136438</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136438</controlfield>
   <controlfield tag="005">20080805132353.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Furlanetto, , Bonaventura</subfield>
-    <subfield code="3">IT\ICCU\MUSV\028042</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Furlanetto, Bonaventura</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Triumphus Jepthe. N.21</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0242827</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
@@ -4124,18 +2410,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0136465</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136465</controlfield>
   <controlfield tag="005">20070524131654.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Furlanetto, , Bonaventura</subfield>
-    <subfield code="3">IT\ICCU\MUSV\028042</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Furlanetto, Bonaventura</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Alma Redemptoris. Contralto,Orchestra. N.18. la maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0341128</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
@@ -4144,18 +2423,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0136480</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136480</controlfield>
   <controlfield tag="005">20070524135405.8</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Furlanetto, , Bonaventura</subfield>
-    <subfield code="3">IT\ICCU\MUSV\028042</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Furlanetto, Bonaventura</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Alma Redemptoris. Contralto,Orchestra. N.19. mi bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0042936</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
@@ -4164,18 +2436,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0136345</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136345</controlfield>
   <controlfield tag="005">20070531135628.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Furlanetto, , Bonaventura</subfield>
-    <subfield code="3">IT\ICCU\MUSV\028042</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Furlanetto, Bonaventura</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Alma Redemptoris. Soprano,Orchestra. N.27. sol maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0339439</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
@@ -4184,18 +2449,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0136360</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136360</controlfield>
   <controlfield tag="005">20070524135209.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Furlanetto, , Bonaventura</subfield>
-    <subfield code="3">IT\ICCU\MUSV\028042</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Furlanetto, Bonaventura</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Alma Redemptoris. Contralto,Orchestra. N.19. mi bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0042936</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
@@ -4204,18 +2462,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0136391</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136391</controlfield>
   <controlfield tag="005">20070524135129.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Furlanetto, , Bonaventura</subfield>
-    <subfield code="3">IT\ICCU\MUSV\028042</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Furlanetto, Bonaventura</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Alma Redemptoris. Contralto,Orchestra. N.19. mi bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0042936</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
@@ -4224,18 +2475,11 @@
   <controlfield tag="001">IT\ICCU\MUS\0136563</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136563</controlfield>
   <controlfield tag="005">20080728112057.4</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20040101f        ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Latilla, , Gaetano</subfield>
-    <subfield code="3">IT\ICCU\PUVV\228075</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Latilla, Gaetano</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Lauda Jerusalem. Coro a 3 voci,Orchestra di archi. N.4. re maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0389425</subfield>
     <subfield code="9">Latilla, Gaetano</subfield>
   </datafield>
@@ -4244,18 +2488,11 @@
   <controlfield tag="001">IT\ICCU\MSM\0252034</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252034</controlfield>
   <controlfield tag="005">20080116191735.6</controlfield>
-  <datafield tag="100" ind1=" " ind2=" ">
-    <subfield code="a">20060217d1753    ||||0itac50      ba</subfield>
-  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
-    <subfield code="a">Scarlatti, , Domenico</subfield>
-    <subfield code="3">IT\ICCU\MUSV\059233</subfield>
-    <subfield code="4">230</subfield>
+    <subfield code="a">Scarlatti, Domenico</subfield>
   </datafield>
-  <datafield tag="240" ind1=" " ind2=" ">
+  <datafield tag="240" ind1="1" ind2="0">
     <subfield code="a">Sonate. Cembalo. K.311. si bemolle maggiore</subfield>
-  </datafield>
-  <datafield tag="500" ind1="1" ind2="0">
     <subfield code="3">IT\ICCU\CMP\0403767</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
