@@ -14,11 +14,17 @@
     <subfield code="3">IT\ICCU\CMP\0223968</subfield>
     <subfield code="9">Costantini, Alessandro &lt;ca. 1581-1657&gt;</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>00852ndm2a22002653i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053127</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053127</controlfield>
   <controlfield tag="005">20150224140235.5</controlfield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01488ndm2a22003733i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053128</controlfield>
@@ -31,6 +37,9 @@
     <subfield code="a">Dicunt infantes</subfield>
     <subfield code="3">IT\ICCU\CMP\0023054</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01899ndm2a22003853i 450 </leader>
@@ -45,6 +54,9 @@
     <subfield code="3">IT\ICCU\CMP\0038733</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01198ndm2a22003133i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053130</controlfield>
@@ -57,6 +69,9 @@
     <subfield code="a">Innocentes pro Christo occisi sunt. Soprano,Mezzosoprano,Contralto,Basso</subfield>
     <subfield code="3">IT\ICCU\CMP\0038787</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01845ndm2a22003973i 450 </leader>
@@ -71,11 +86,17 @@
     <subfield code="3">IT\ICCU\CMP\0223971</subfield>
     <subfield code="9">Clemens non papa, Jacobus</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>00884ndm2a22002653i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053132</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053132</controlfield>
   <controlfield tag="005">20150224131651.0</controlfield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01923ndm2a22003853i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053133</controlfield>
@@ -88,6 +109,9 @@
     <subfield code="a">Valde honorandus est.Cantus,Contralto,Tenore,Basso</subfield>
     <subfield code="3">IT\ICCU\CMP\0223972</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01163ndm2a22003133i 450 </leader>
@@ -102,6 +126,9 @@
     <subfield code="3">IT\ICCU\CMP\0223973</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01261ndm2a22003133i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053135</controlfield>
@@ -114,6 +141,9 @@
     <subfield code="a">Hic est beatissimus EvangelistaSoprano, Contralto, Tenore, Basso</subfield>
     <subfield code="3">IT\ICCU\CMP\0223974</subfield>
     <subfield code="9">Nanino, Giovanni Bernardino</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01183ndm2a22003133i 450 </leader>
@@ -128,6 +158,9 @@
     <subfield code="3">IT\ICCU\CMP\0223975</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01269ndm2a22003253i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053137</controlfield>
@@ -141,11 +174,17 @@
     <subfield code="3">IT\ICCU\CMP\0023056</subfield>
     <subfield code="9">Nanino, Giovanni Maria</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>00866ndm2a22002653i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053138</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053138</controlfield>
   <controlfield tag="005">20150224124200.2</controlfield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01127ndm2a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053139</controlfield>
@@ -160,6 +199,9 @@
     <subfield code="3">IT\ICCU\CMP\0223976</subfield>
     <subfield code="9">Costantini, Alessandro &lt;ca. 1581-1657&gt;</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01801ndm2a22004093i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053140</controlfield>
@@ -172,6 +214,9 @@
     <subfield code="a">Hodie apparuit in Israel</subfield>
     <subfield code="3">IT\ICCU\CMP\0023058</subfield>
     <subfield code="9">Lasso, Orlando : di</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01167ndm2a22003133i 450 </leader>
@@ -186,11 +231,17 @@
     <subfield code="3">IT\ICCU\CMP\0023047</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>00857ndm2a22002653i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053113</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053113</controlfield>
   <controlfield tag="005">20150224155618.6</controlfield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01725ndm2a22004093i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053114</controlfield>
@@ -203,6 +254,9 @@
     <subfield code="a">Dextera Domini.</subfield>
     <subfield code="3">IT\ICCU\CMP\0023049</subfield>
     <subfield code="9">Lasso, Orlando : di</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01718ndm2a22004093i 450 </leader>
@@ -217,6 +271,9 @@
     <subfield code="3">IT\ICCU\CMP\0023050</subfield>
     <subfield code="9">Lasso, Orlando : di</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01546ndm2a22003733i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053116</controlfield>
@@ -229,6 +286,9 @@
     <subfield code="a">Ab Oriente venerunt MagiSoprano, Contralto, Tenore, Basso</subfield>
     <subfield code="3">IT\ICCU\CMP\0223960</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01145ndm2a22003133i 450 </leader>
@@ -243,6 +303,9 @@
     <subfield code="3">IT\ICCU\CMP\0223961</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01100ndm2a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053118</controlfield>
@@ -256,11 +319,17 @@
     <subfield code="3">IT\ICCU\CMP\0223962</subfield>
     <subfield code="9">Goudimel, Claude</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>00856ndm2a22002653i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053119</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053119</controlfield>
   <controlfield tag="005">20150224150054.4</controlfield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01107ndm2a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053120</controlfield>
@@ -273,6 +342,9 @@
     <subfield code="a">Jesu dulcis memoriaSoprano, Contralto, Tenore, Basso</subfield>
     <subfield code="3">IT\ICCU\CMP\0223963</subfield>
     <subfield code="9">Da Vittoria, C. L.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01893ndm2a22003853i 450 </leader>
@@ -287,6 +359,9 @@
     <subfield code="3">IT\ICCU\CMP\0361532</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01111ndm2a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053122</controlfield>
@@ -299,6 +374,9 @@
     <subfield code="a">Jesu decus Angelicum. Soprano, Contralto, Tenore, Basso</subfield>
     <subfield code="3">IT\ICCU\CMP\0223965</subfield>
     <subfield code="9">Pasquini, Ercole</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01765ndm2a22004093i 450 </leader>
@@ -313,6 +391,9 @@
     <subfield code="3">IT\ICCU\CMP\0223966</subfield>
     <subfield code="9">Lasso, Orlando : di</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01179ndm2a22003133i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053125</controlfield>
@@ -325,6 +406,9 @@
     <subfield code="a">Magnum haereditatis misterium. Soprano,Contralto,Tenore,Basso</subfield>
     <subfield code="3">IT\ICCU\CMP\0223967</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01485ndm2a22003733i 450 </leader>
@@ -339,6 +423,9 @@
     <subfield code="3">IT\ICCU\CMP\0023059</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01521ndm2a22003733i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053142</controlfield>
@@ -351,6 +438,9 @@
     <subfield code="a">Natus est nobis Deus de Deo</subfield>
     <subfield code="3">IT\ICCU\CMP\0023060</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01171ndm2a22003133i 450 </leader>
@@ -365,6 +455,9 @@
     <subfield code="3">IT\ICCU\CMP\0223977</subfield>
     <subfield code="9">Porta, Costanzo</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01080ndm2a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053144</controlfield>
@@ -377,6 +470,9 @@
     <subfield code="a">O magnum misterium</subfield>
     <subfield code="3">IT\ICCU\CMP\0223978</subfield>
     <subfield code="9">Da Vittoria, C. L.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01168ndm2a22003133i 450 </leader>
@@ -391,6 +487,9 @@
     <subfield code="3">IT\ICCU\CMP\0023061</subfield>
     <subfield code="9">Zarlino, Gioseffo</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01190ndm2a22003133i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053146</controlfield>
@@ -404,6 +503,9 @@
     <subfield code="3">IT\ICCU\CMP\0023062</subfield>
     <subfield code="9">Ingegneri, Marco Antonio</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01202ndm2a22003133i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053147</controlfield>
@@ -416,6 +518,9 @@
     <subfield code="a">Hodie Christus Natus est</subfield>
     <subfield code="3">IT\ICCU\CMP\0023063</subfield>
     <subfield code="9">Nanino, Giovanni Bernardino</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01086ndm2a22003013i 450 </leader>
@@ -431,6 +536,9 @@
     <subfield code="3">IT\ICCU\CMP\0223979</subfield>
     <subfield code="9">Turini, Gregorio &lt;1560-1600&gt;</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01939ndm2a22003973i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053149</controlfield>
@@ -443,6 +551,9 @@
     <subfield code="a">Hodie Christus natus est.2 Canti,Contralto,Tenore</subfield>
     <subfield code="3">IT\ICCU\CMP\0038734</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01183ndm2a22003133i 450 </leader>
@@ -457,6 +568,9 @@
     <subfield code="3">IT\ICCU\CMP\0223981</subfield>
     <subfield code="9">Marenzio, Luca</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01198ndm2a22003133i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053151</controlfield>
@@ -469,6 +583,9 @@
     <subfield code="a">Hodie nobis coelorum rex</subfield>
     <subfield code="3">IT\ICCU\CMP\0023064</subfield>
     <subfield code="9">Nanino, Giovanni Bernardino</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01163ndm2a22003133i 450 </leader>
@@ -483,6 +600,9 @@
     <subfield code="3">IT\ICCU\CMP\0223982</subfield>
     <subfield code="9">Porta, Costanzo</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01928ndm2a22003853i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053153</controlfield>
@@ -496,11 +616,17 @@
     <subfield code="3">IT\ICCU\CMP\0223983</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>00856ndm2a22002653i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053154</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053154</controlfield>
   <controlfield tag="005">20150218183040.4</controlfield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01079ndm2a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053155</controlfield>
@@ -513,6 +639,9 @@
     <subfield code="a">Ave Maria. Soprano, 2 Contralti, Tenore</subfield>
     <subfield code="3">IT\ICCU\CMP\0223984</subfield>
     <subfield code="9">Jepkens, Albert</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01824ndm2a22004093i 450 </leader>
@@ -527,6 +656,9 @@
     <subfield code="3">IT\ICCU\CMP\0223985</subfield>
     <subfield code="9">Lasso, Orlando : di</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01555ndm2a22003613i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053157</controlfield>
@@ -539,6 +671,9 @@
     <subfield code="a">Ave Maria ...</subfield>
     <subfield code="3">IT\ICCU\CMP\0223986</subfield>
     <subfield code="9">Victoria, Tom©Łs Luis : de</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01887ndm2a22003853i 450 </leader>
@@ -553,6 +688,9 @@
     <subfield code="3">IT\ICCU\CMP\0360449</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01887ndm2a22003853i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053159</controlfield>
@@ -566,6 +704,9 @@
     <subfield code="3">IT\ICCU\CMP\0360449</subfield>
     <subfield code="9">Palestrina, Giovanni Pierluigi : da</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01075ndm2a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053160</controlfield>
@@ -578,6 +719,9 @@
     <subfield code="a">Ave Maria ...</subfield>
     <subfield code="3">IT\ICCU\CMP\0223988</subfield>
     <subfield code="9">Cannicciari, Pompeo</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01128ndm2a22003013i 450 </leader>
@@ -593,6 +737,9 @@
     <subfield code="3">IT\ICCU\CMP\0223989</subfield>
     <subfield code="9">Casali, Giovanni Battista &lt;ca. 1715-1792&gt;</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01144ndm2a22003253i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053162</controlfield>
@@ -605,6 +752,9 @@
     <subfield code="a">Ave Maria ...</subfield>
     <subfield code="3">IT\ICCU\CMP\0223990</subfield>
     <subfield code="9">Nasco, Giovanni</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01099ndm2a22003013i 450 </leader>
@@ -620,6 +770,9 @@
     <subfield code="3">IT\ICCU\CMP\0223991</subfield>
     <subfield code="9">Verdonck, Cornelis &lt;1563-1625&gt;</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01985ndm2a22004453i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053164</controlfield>
@@ -632,6 +785,9 @@
     <subfield code="a">Ave Maria, gratia plena</subfield>
     <subfield code="3">IT\ICCU\CMP\0223992</subfield>
     <subfield code="9">Arcadelt, Jacob</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01538ndm2a22003853i 450 </leader>
@@ -646,6 +802,9 @@
     <subfield code="3">IT\ICCU\CMP\0223993</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01503ndm2a22003733i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053166</controlfield>
@@ -658,6 +817,9 @@
     <subfield code="a">Egredietur virga</subfield>
     <subfield code="3">IT\ICCU\CMP\0223994</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01218ndm2a22003133i 450 </leader>
@@ -673,6 +835,9 @@
     <subfield code="3">IT\ICCU\CMP\0223995</subfield>
     <subfield code="9">Fux, Johann Joseph &lt;1660-1741&gt;</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01119ndm2a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053168</controlfield>
@@ -685,6 +850,9 @@
     <subfield code="a">Cum audisset Joannes. Soprano, Contralto, Tenore, Basso</subfield>
     <subfield code="3">IT\ICCU\CMP\0223996</subfield>
     <subfield code="9">Cardoso, Manuel</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01204ndm2a22003133i 450 </leader>
@@ -699,6 +867,9 @@
     <subfield code="3">IT\ICCU\CMP\0223997</subfield>
     <subfield code="9">Porta, Costanzo</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01497ndm2a22003733i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053170</controlfield>
@@ -711,6 +882,9 @@
     <subfield code="a">Obsecro Domine</subfield>
     <subfield code="3">IT\ICCU\CMP\0223998</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01218ndm2a22003133i 450 </leader>
@@ -725,6 +899,9 @@
     <subfield code="3">IT\ICCU\CMP\0223999</subfield>
     <subfield code="9">Porta, Costanzo</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01552ndm2a22003853i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053172</controlfield>
@@ -737,6 +914,9 @@
     <subfield code="a">Praeparate corda vostra. 2 Tenori, 2 Bassi</subfield>
     <subfield code="3">IT\ICCU\CMP\0224000</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
 </record><record>
   <leader>01521ndm2a22003733i 450 </leader>
@@ -751,6 +931,9 @@
     <subfield code="3">IT\ICCU\CMP\0224001</subfield>
     <subfield code="9">Gallus, Jacobus</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01547ndm2a22003613i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053174</controlfield>
@@ -764,6 +947,9 @@
     <subfield code="3">IT\ICCU\CMP\0224002</subfield>
     <subfield code="9">Aiblinger, Johann Kaspar</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>01054ndm2a22002893i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053175</controlfield>
@@ -773,11 +959,20 @@
     <subfield code="a">Proprium de Tempore. Soprano, Contralto, Tenore, Basso</subfield>
     <subfield code="3">IT\ICCU\CMP\0224004</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
 </record><record>
   <leader>00736ndm1a22002533i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0053176</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053176</controlfield>
   <controlfield tag="005">20150218145621.5</controlfield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione anastatica del manoscritto</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Titolo attribuito.</subfield>
+  </datafield>
 </record><record>
   <leader>01207ndm0a22003373i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0073987</controlfield>
@@ -791,6 +986,9 @@
     <subfield code="3">IT\ICCU\CMP\0296332</subfield>
     <subfield code="9">Napoli, Jacopo</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Riproduzione xerox di ms.</subfield>
+  </datafield>
 </record><record>
   <leader>01079ndm0a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0081989</controlfield>
@@ -800,6 +998,9 @@
     <subfield code="a">Donne gentil' in voi si chiara</subfield>
     <subfield code="3">IT\ICCU\CMP\0563504</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Macchie d'inchiostro blu sulla parte di soprano</subfield>
+  </datafield>
 </record><record>
   <leader>01095ndm0a22003013i 450 </leader>
   <controlfield tag="001">IT\ICCU\MUS\0096792</controlfield>
@@ -808,6 +1009,9 @@
   <datafield tag="240" ind1="1" ind2="1">
     <subfield code="a">D'oro fiammeggian l'onde</subfield>
     <subfield code="3">IT\ICCU\CMP\0563479</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Manca certamente una parte di soprano</subfield>
   </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
@@ -1341,6 +1545,9 @@
     <subfield code="a">Sonate. Cembalo. K.287. re maggiore</subfield>
     <subfield code="3">IT\ICCU\CMP\0403743</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">A c.32v: per organo da camera con due tastatura flautato, ©· (!) trombone.</subfield>
   </datafield>
 </record><record>
   <leader>01035nda2a22002893i 450 </leader>
@@ -1953,6 +2160,9 @@
     <subfield code="a">Sonate. Cembalo. K.53. re maggiore</subfield>
     <subfield code="3">IT\ICCU\CMP\0403710</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">A c.25v: Antes de esta sonata se debe taner la q sigue, que es companera, y 1.a deesta.</subfield>
   </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>

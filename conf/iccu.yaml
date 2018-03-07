@@ -62,7 +62,13 @@ Mapping:
 #  - 215$d: ~ # 128668 (34 cm)
 #  - 215$e: ~ # 14876 (1 foglio di schizzo)
 #  # 500
-  - "300": ~ # 166363 (Riproduzione anastatica del manoscritto.)
+  - "500": "240" # 201418 (O Admirabile Cummercium. Soprano, Contralto, Tenore, Basso)
+#  - 500$c: ~ # 14 (.)
+#  - 500$f: ~ # 45 (Spiritus. Soprano,Coro a 4 voci,Orchestra. fa maggiore)
+#  - 500$x: ~ # 72 (ITA)
+
+
+  - "300": "500" # 166363 (Riproduzione anastatica del manoscritto.)
   - "311": ~
 #  - 311$9: ~ # 924 (IT\ICCU\MSM\0155996)
 #  - 311$a: ~ # 924 (cc.51v-54v)
@@ -156,10 +162,6 @@ Mapping:
 #  # 240
 #  - 500$3: ~ # 201418 (IT\ICCU\CMP\0223968)
 #  - 500$9: ~ # 164324 (Costantini, Alessandro <ca. 1581-1657>)
-  - "500": "240" # 201418 (O Admirabile Cummercium. Soprano, Contralto, Tenore, Basso)
-#  - 500$c: ~ # 14 (.)
-#  - 500$f: ~ # 45 (Spiritus. Soprano,Coro a 4 voci,Orchestra. fa maggiore)
-#  - 500$x: ~ # 72 (ITA)
   - "510": ~
 #
 #  - 510$9: ~ # 1612 (IT\ICCU\MSM\0249916)
