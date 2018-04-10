@@ -9,22 +9,41 @@ module Marcxml
     NAMESPACE={'marc' => "http://www.loc.gov/MARC21/slim"}
     include Logging
     @refs = {}
-    #@ids = YAML.load_file("/home/dev/projects/import/BNF/id.yml")
+    @@without_siglum = {}
+    @@isil_codes = YAML.load_file("./utils/isil_codes.yml")
+    @ids = YAML.load_file("./ids.yml")
     @relator_codes = YAML.load_file("./lib/unimarc_relator_codes.yml")
     class << self
-      attr_accessor :refs, :ids, :relator_codes
+      attr_accessor :refs, :ids, :relator_codes, :isil_codes, :without_siglum
     end
     attr_accessor :node, :namespace, :methods
     def initialize(node, namespace={'marc' => "http://www.loc.gov/MARC21/slim"})
       @namespace = namespace
       @node = node
-      @methods = [:map, 
+      @methods = [:map, :replace_rism_siglum, :fix_id, :add_original_entry, 
                  #:fix_id, :change_attribution, :prefix_performance,
                  #:split_730, :change_243, :change_593_abbreviation, :change_009, 
-                 :concat_personal_name, 
+                  :concat_personal_name, :remove_whitespace_from_incipit, 
                  #:add_original_entry, :add_material_layer, :fix_incipit_zeros, :change_relator_codes, 
                  #:fix_852, :remove_pipe
       ]
+    end
+
+    def replace_rism_siglum
+      subfields=node.xpath("//marc:datafield[@tag='852']/marc:subfield[@code='a']", NAMESPACE)
+      subfields.each do |sf|
+        if @@isil_codes[sf.content]
+          sf.content = @@isil_codes[sf.content]      
+        else
+          unless @@without_siglum[sf.content]
+            @@without_siglum[sf.content] = 1
+          else
+            @@without_siglum[sf.content] += 1
+          end
+        end
+      end
+      #uts @@without_siglum
+
     end
 
     def change_relator_codes
@@ -39,15 +58,29 @@ module Marcxml
     def fix_id
       controlfield = node.xpath("//marc:controlfield[@tag='001']", NAMESPACE).first
       if ((Integer(controlfield.content) rescue false) == false)
-        controlfield.content = BNF.ids[controlfield.content]
+        controlfield.content = Iccu.ids[controlfield.content]
       end
+      #TODO find linking field
       datafield = node.xpath("//marc:datafield[@tag='773']/marc:subfield[@code='w']", NAMESPACE).first rescue nil
       if datafield
-        datafield.content = BNF.ids[datafield.content]
+        datafield.content = Iccu.ids[datafield.content]
       end
       #links = node.xpath("//marc:datafield[@tag='773']/marc:subfield[@code='w']", NAMESPACE)
       #links.each {|link| link.content = link.content.gsub("(OCoLC)", "1")}
     end
+
+    def remove_whitespace_from_incipit
+      incipits = node.xpath("//marc:datafield[@tag='031']", NAMESPACE)
+      incipits.each do |incipit|
+        sfx = incipit.xpath("marc:subfield", NAMESPACE) rescue nil
+        sfx.each do |sf|
+          if sf && sf.content
+            sf.content = sf.content.strip
+          end
+        end
+      end
+    end
+
 
     def fix_incipit_zeros
       codes = %w(a b c)

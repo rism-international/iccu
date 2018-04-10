@@ -2,7 +2,7 @@
 <collection xmlns="http://www.loc.gov/MARC21/slim">
 <record>
   <leader>01158ndm2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053126</controlfield>
+  <controlfield tag="001">850600001</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053126</controlfield>
   <controlfield tag="005">20150224140503.9</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -17,17 +17,31 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053126</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>00852ndm2a22002653i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053127</controlfield>
+  <controlfield tag="001">850600002</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053127</controlfield>
   <controlfield tag="005">20150224140235.5</controlfield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053127</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01488ndm2a22003733i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053128</controlfield>
+  <controlfield tag="001">850600003</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053128</controlfield>
   <controlfield tag="005">20150224135621.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -41,9 +55,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053128</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01899ndm2a22003853i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053129</controlfield>
+  <controlfield tag="001">850600004</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053129</controlfield>
   <controlfield tag="005">20150224132713.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -57,9 +78,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053129</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01198ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053130</controlfield>
+  <controlfield tag="001">850600005</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053130</controlfield>
   <controlfield tag="005">20150224132301.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -73,9 +101,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053130</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01845ndm2a22003973i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053131</controlfield>
+  <controlfield tag="001">850600006</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053131</controlfield>
   <controlfield tag="005">20150224131834.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -89,17 +124,32 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053131</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>00884ndm2a22002653i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053132</controlfield>
+  <controlfield tag="001">850600007</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053132</controlfield>
   <controlfield tag="005">20150224131651.0</controlfield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+    <subfield code="c">A.1404</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053132</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01923ndm2a22003853i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053133</controlfield>
+  <controlfield tag="001">850600008</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053133</controlfield>
   <controlfield tag="005">20150224125801.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -113,9 +163,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053133</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01163ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053134</controlfield>
+  <controlfield tag="001">850600009</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053134</controlfield>
   <controlfield tag="005">20150224125359.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -129,9 +186,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053134</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01261ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053135</controlfield>
+  <controlfield tag="001">850600010</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053135</controlfield>
   <controlfield tag="005">20150224124827.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -145,9 +209,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053135</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01183ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053136</controlfield>
+  <controlfield tag="001">850600011</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053136</controlfield>
   <controlfield tag="005">20150224124410.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -161,9 +232,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053136</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01269ndm2a22003253i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053137</controlfield>
+  <controlfield tag="001">850600012</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053137</controlfield>
   <controlfield tag="005">20150224123907.9</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -177,17 +255,31 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053137</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>00866ndm2a22002653i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053138</controlfield>
+  <controlfield tag="001">850600013</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053138</controlfield>
   <controlfield tag="005">20150224124200.2</controlfield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053138</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01127ndm2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053139</controlfield>
+  <controlfield tag="001">850600014</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053139</controlfield>
   <controlfield tag="005">20150224122055.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -202,9 +294,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053139</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01801ndm2a22004093i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053140</controlfield>
+  <controlfield tag="001">850600015</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053140</controlfield>
   <controlfield tag="005">20150224121541.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -218,9 +317,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053140</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01167ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053112</controlfield>
+  <controlfield tag="001">850600016</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053112</controlfield>
   <controlfield tag="005">20150224155737.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -234,17 +340,31 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053112</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>00857ndm2a22002653i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053113</controlfield>
+  <controlfield tag="001">850600017</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053113</controlfield>
   <controlfield tag="005">20150224155618.6</controlfield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053113</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01725ndm2a22004093i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053114</controlfield>
+  <controlfield tag="001">850600018</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053114</controlfield>
   <controlfield tag="005">20150224155300.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -258,9 +378,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053114</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01718ndm2a22004093i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053115</controlfield>
+  <controlfield tag="001">850600019</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053115</controlfield>
   <controlfield tag="005">20150224155107.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -274,9 +401,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053115</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01546ndm2a22003733i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053116</controlfield>
+  <controlfield tag="001">850600020</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053116</controlfield>
   <controlfield tag="005">20150224152442.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -290,9 +424,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053116</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01145ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053117</controlfield>
+  <controlfield tag="001">850600021</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053117</controlfield>
   <controlfield tag="005">20150224151249.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -306,9 +447,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053117</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01100ndm2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053118</controlfield>
+  <controlfield tag="001">850600022</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053118</controlfield>
   <controlfield tag="005">20150224150456.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -322,17 +470,31 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053118</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>00856ndm2a22002653i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053119</controlfield>
+  <controlfield tag="001">850600023</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053119</controlfield>
   <controlfield tag="005">20150224150054.4</controlfield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053119</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01107ndm2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053120</controlfield>
+  <controlfield tag="001">850600024</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053120</controlfield>
   <controlfield tag="005">20150224145630.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -346,9 +508,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053120</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01893ndm2a22003853i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053121</controlfield>
+  <controlfield tag="001">850600025</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053121</controlfield>
   <controlfield tag="005">20150224144541.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -362,9 +531,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053121</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01111ndm2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053122</controlfield>
+  <controlfield tag="001">850600026</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053122</controlfield>
   <controlfield tag="005">20150224144015.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -378,9 +554,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053122</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01765ndm2a22004093i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053124</controlfield>
+  <controlfield tag="001">850600027</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053124</controlfield>
   <controlfield tag="005">20150224141431.9</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -394,9 +577,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053124</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01179ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053125</controlfield>
+  <controlfield tag="001">850600028</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053125</controlfield>
   <controlfield tag="005">20150224141031.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -410,9 +600,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053125</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01485ndm2a22003733i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053141</controlfield>
+  <controlfield tag="001">850600029</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053141</controlfield>
   <controlfield tag="005">20150224121159.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -426,9 +623,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053141</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01521ndm2a22003733i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053142</controlfield>
+  <controlfield tag="001">850600030</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053142</controlfield>
   <controlfield tag="005">20150224120345.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -442,9 +646,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053142</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01171ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053143</controlfield>
+  <controlfield tag="001">850600031</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053143</controlfield>
   <controlfield tag="005">20150224115756.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -458,9 +669,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053143</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01080ndm2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053144</controlfield>
+  <controlfield tag="001">850600032</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053144</controlfield>
   <controlfield tag="005">20150224115352.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -474,9 +692,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053144</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01168ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053145</controlfield>
+  <controlfield tag="001">850600033</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053145</controlfield>
   <controlfield tag="005">20150224110023.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -490,9 +715,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053145</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01190ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053146</controlfield>
+  <controlfield tag="001">850600034</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053146</controlfield>
   <controlfield tag="005">20150224105051.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -506,9 +738,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053146</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01202ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053147</controlfield>
+  <controlfield tag="001">850600035</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053147</controlfield>
   <controlfield tag="005">20150218184130.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -522,9 +761,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053147</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01086ndm2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053148</controlfield>
+  <controlfield tag="001">850600036</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053148</controlfield>
   <controlfield tag="005">20150224103857.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -539,9 +785,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053148</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01939ndm2a22003973i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053149</controlfield>
+  <controlfield tag="001">850600037</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053149</controlfield>
   <controlfield tag="005">20150224103022.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -555,9 +808,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053149</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01183ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053150</controlfield>
+  <controlfield tag="001">850600038</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053150</controlfield>
   <controlfield tag="005">20150218184922.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -571,9 +831,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053150</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01198ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053151</controlfield>
+  <controlfield tag="001">850600039</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053151</controlfield>
   <controlfield tag="005">20150224104410.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -587,9 +854,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053151</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01163ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053152</controlfield>
+  <controlfield tag="001">850600040</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053152</controlfield>
   <controlfield tag="005">20150218183728.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -603,9 +877,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053152</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01928ndm2a22003853i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053153</controlfield>
+  <controlfield tag="001">850600041</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053153</controlfield>
   <controlfield tag="005">20150218182807.9</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -619,17 +900,31 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053153</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>00856ndm2a22002653i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053154</controlfield>
+  <controlfield tag="001">850600042</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053154</controlfield>
   <controlfield tag="005">20150218183040.4</controlfield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053154</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01079ndm2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053155</controlfield>
+  <controlfield tag="001">850600043</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053155</controlfield>
   <controlfield tag="005">20150218181836.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -643,9 +938,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053155</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01824ndm2a22004093i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053156</controlfield>
+  <controlfield tag="001">850600044</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053156</controlfield>
   <controlfield tag="005">20150218175406.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -659,9 +961,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053156</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01555ndm2a22003613i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053157</controlfield>
+  <controlfield tag="001">850600045</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053157</controlfield>
   <controlfield tag="005">20150218174709.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -675,9 +984,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053157</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01887ndm2a22003853i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053158</controlfield>
+  <controlfield tag="001">850600046</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053158</controlfield>
   <controlfield tag="005">20150218174324.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -691,9 +1007,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053158</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01887ndm2a22003853i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053159</controlfield>
+  <controlfield tag="001">850600047</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053159</controlfield>
   <controlfield tag="005">20150218173328.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -707,9 +1030,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053159</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01075ndm2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053160</controlfield>
+  <controlfield tag="001">850600048</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053160</controlfield>
   <controlfield tag="005">20150218172928.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -723,9 +1053,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053160</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01128ndm2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053161</controlfield>
+  <controlfield tag="001">850600049</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053161</controlfield>
   <controlfield tag="005">20150218172600.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -740,9 +1077,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053161</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01144ndm2a22003253i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053162</controlfield>
+  <controlfield tag="001">850600050</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053162</controlfield>
   <controlfield tag="005">20150218171310.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -756,9 +1100,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053162</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01099ndm2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053163</controlfield>
+  <controlfield tag="001">850600051</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053163</controlfield>
   <controlfield tag="005">20150218170102.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -773,9 +1124,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053163</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01985ndm2a22004453i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053164</controlfield>
+  <controlfield tag="001">850600052</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053164</controlfield>
   <controlfield tag="005">20150218165604.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -789,9 +1147,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053164</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01538ndm2a22003853i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053165</controlfield>
+  <controlfield tag="001">850600053</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053165</controlfield>
   <controlfield tag="005">20150218164633.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -805,9 +1170,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053165</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01503ndm2a22003733i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053166</controlfield>
+  <controlfield tag="001">850600054</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053166</controlfield>
   <controlfield tag="005">20150218164056.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -821,9 +1193,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053166</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01218ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053167</controlfield>
+  <controlfield tag="001">850600055</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053167</controlfield>
   <controlfield tag="005">20150218163634.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -838,9 +1217,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053167</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01119ndm2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053168</controlfield>
+  <controlfield tag="001">850600056</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053168</controlfield>
   <controlfield tag="005">20150218163036.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -854,9 +1240,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053168</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01204ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053169</controlfield>
+  <controlfield tag="001">850600057</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053169</controlfield>
   <controlfield tag="005">20150218162243.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -870,9 +1263,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053169</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01497ndm2a22003733i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053170</controlfield>
+  <controlfield tag="001">850600058</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053170</controlfield>
   <controlfield tag="005">20150218161454.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -886,9 +1286,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053170</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01218ndm2a22003133i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053171</controlfield>
+  <controlfield tag="001">850600059</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053171</controlfield>
   <controlfield tag="005">20150218160823.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -902,9 +1309,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053171</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01552ndm2a22003853i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053172</controlfield>
+  <controlfield tag="001">850600060</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053172</controlfield>
   <controlfield tag="005">20150218153925.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -918,9 +1332,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053172</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01521ndm2a22003733i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053173</controlfield>
+  <controlfield tag="001">850600061</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053173</controlfield>
   <controlfield tag="005">20150218153321.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -934,9 +1355,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053173</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01547ndm2a22003613i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053174</controlfield>
+  <controlfield tag="001">850600062</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053174</controlfield>
   <controlfield tag="005">20150218152632.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -950,9 +1378,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053174</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01054ndm2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053175</controlfield>
+  <controlfield tag="001">850600063</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053175</controlfield>
   <controlfield tag="005">20150218150547.1</controlfield>
   <datafield tag="240" ind1="1" ind2="1">
@@ -962,9 +1397,16 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053175</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>00736ndm1a22002533i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0053176</controlfield>
+  <controlfield tag="001">850600064</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0053176</controlfield>
   <controlfield tag="005">20150218145621.5</controlfield>
   <datafield tag="500" ind1=" " ind2=" ">
@@ -973,11 +1415,31 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Titolo attribuito.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">AV0102</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vlevi</subfield>
+    <subfield code="c">A.1404</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0053176</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01207ndm0a22003373i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0073987</controlfield>
+  <controlfield tag="001">850600065</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0073987</controlfield>
   <controlfield tag="005">20171024171608.1</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="p">8-'A2''C'8B6''C'B/4.B{6''CD}4.C{6DE}/'2xGA/</subfield>
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="m">T</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="o">4/4</subfield>
+    <subfield code="d">[S.i.]</subfield>
+  </datafield>
   <datafield tag="100" ind1=" " ind2="1">
     <subfield code="a">Napoli, Jacopo</subfield>
   </datafield>
@@ -989,11 +1451,31 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione xerox di ms.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-BRc</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Rama</subfield>
+    <subfield code="c">Spart.62</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0073987</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01079ndm0a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0081989</controlfield>
+  <controlfield tag="001">850600066</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0081989</controlfield>
   <controlfield tag="005">20141009083934.0</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="p">'1B2BA''C'B1A2G''C'4AB''2C'4B</subfield>
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="m">S</subfield>
+    <subfield code="g">C1</subfield>
+    <subfield code="o">C</subfield>
+    <subfield code="t">Donne gentil' in voi si chiara splend' et</subfield>
+  </datafield>
   <datafield tag="240" ind1="1" ind2="1">
     <subfield code="a">Donne gentil' in voi si chiara</subfield>
     <subfield code="3">IT\ICCU\CMP\0563504</subfield>
@@ -1001,11 +1483,28 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Macchie d'inchiostro blu sulla parte di soprano</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-SGc</subfield>
+    <subfield code="c">F.S.M.3</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0081989</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01095ndm0a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0096792</controlfield>
+  <controlfield tag="001">850600067</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0096792</controlfield>
   <controlfield tag="005">20141014110838.6</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="p">-9'2D4FGED{8CDEF}2G4GDE,B'CC{8DEFG}4A2G4xF2G</subfield>
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="m">Mzs</subfield>
+    <subfield code="g">C2</subfield>
+    <subfield code="o">C</subfield>
+    <subfield code="t">D'oro fiammeggian l'onde de bei cerulei campi</subfield>
+  </datafield>
   <datafield tag="240" ind1="1" ind2="1">
     <subfield code="a">D'oro fiammeggian l'onde</subfield>
     <subfield code="3">IT\ICCU\CMP\0563479</subfield>
@@ -1013,9 +1512,17 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Manca certamente una parte di soprano</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-SGc</subfield>
+    <subfield code="c">F.S.M.1</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0096792</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252015</controlfield>
+  <controlfield tag="001">850600068</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252015</controlfield>
   <controlfield tag="005">20080116200415.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1026,9 +1533,17 @@
     <subfield code="3">IT\ICCU\CMP\0403748</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252015</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01017nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251930</controlfield>
+  <controlfield tag="001">850600069</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251930</controlfield>
   <controlfield tag="005">20080121191754.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1039,9 +1554,17 @@
     <subfield code="3">IT\ICCU\CMP\0403664</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/IV</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251930</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251928</controlfield>
+  <controlfield tag="001">850600070</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251928</controlfield>
   <controlfield tag="005">20080121191541.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1052,9 +1575,17 @@
     <subfield code="3">IT\ICCU\CMP\0403662</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/IV</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251928</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251929</controlfield>
+  <controlfield tag="001">850600071</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251929</controlfield>
   <controlfield tag="005">20080121191640.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1065,9 +1596,17 @@
     <subfield code="3">IT\ICCU\CMP\0403663</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/IV</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251929</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01017nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251931</controlfield>
+  <controlfield tag="001">850600072</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251931</controlfield>
   <controlfield tag="005">20080121191844.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1078,9 +1617,17 @@
     <subfield code="3">IT\ICCU\CMP\0403665</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/IV</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251931</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01014nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251937</controlfield>
+  <controlfield tag="001">850600073</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251937</controlfield>
   <controlfield tag="005">20080121182800.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1091,9 +1638,17 @@
     <subfield code="3">IT\ICCU\CMP\0403671</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251937</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01015nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251938</controlfield>
+  <controlfield tag="001">850600074</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251938</controlfield>
   <controlfield tag="005">20080121182843.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1104,9 +1659,17 @@
     <subfield code="3">IT\ICCU\CMP\0403672</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251938</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01025nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251947</controlfield>
+  <controlfield tag="001">850600075</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251947</controlfield>
   <controlfield tag="005">20080121183428.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1117,9 +1680,17 @@
     <subfield code="3">IT\ICCU\CMP\0403681</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251947</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01016nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251939</controlfield>
+  <controlfield tag="001">850600076</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251939</controlfield>
   <controlfield tag="005">20080121182933.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1130,9 +1701,17 @@
     <subfield code="3">IT\ICCU\CMP\0403673</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251939</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01025nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251946</controlfield>
+  <controlfield tag="001">850600077</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251946</controlfield>
   <controlfield tag="005">20080121183349.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1143,9 +1722,17 @@
     <subfield code="3">IT\ICCU\CMP\0403680</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251946</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01018nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251957</controlfield>
+  <controlfield tag="001">850600078</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251957</controlfield>
   <controlfield tag="005">20080121184103.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1156,9 +1743,17 @@
     <subfield code="3">IT\ICCU\CMP\0403691</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251957</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01015nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251948</controlfield>
+  <controlfield tag="001">850600079</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251948</controlfield>
   <controlfield tag="005">20080121183508.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1169,9 +1764,17 @@
     <subfield code="3">IT\ICCU\CMP\0403682</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251948</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01018nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251956</controlfield>
+  <controlfield tag="001">850600080</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251956</controlfield>
   <controlfield tag="005">20080121184022.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1182,9 +1785,17 @@
     <subfield code="3">IT\ICCU\CMP\0403690</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251956</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01025nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251965</controlfield>
+  <controlfield tag="001">850600081</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251965</controlfield>
   <controlfield tag="005">20080121175854.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1195,9 +1806,17 @@
     <subfield code="3">IT\ICCU\CMP\0403699</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251965</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01017nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251958</controlfield>
+  <controlfield tag="001">850600082</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251958</controlfield>
   <controlfield tag="005">20080121184140.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1208,9 +1827,17 @@
     <subfield code="3">IT\ICCU\CMP\0403692</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251958</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01027nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251964</controlfield>
+  <controlfield tag="001">850600083</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251964</controlfield>
   <controlfield tag="005">20080121175818.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1221,9 +1848,17 @@
     <subfield code="3">IT\ICCU\CMP\0403698</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251964</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251974</controlfield>
+  <controlfield tag="001">850600084</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251974</controlfield>
   <controlfield tag="005">20080121180422.9</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1234,9 +1869,17 @@
     <subfield code="3">IT\ICCU\CMP\0403708</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251974</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251973</controlfield>
+  <controlfield tag="001">850600085</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251973</controlfield>
   <controlfield tag="005">20080121180347.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1247,9 +1890,17 @@
     <subfield code="3">IT\ICCU\CMP\0403707</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251973</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01018nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251982</controlfield>
+  <controlfield tag="001">850600086</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251982</controlfield>
   <controlfield tag="005">20080121180900.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1260,9 +1911,17 @@
     <subfield code="3">IT\ICCU\CMP\0403716</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251982</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251981</controlfield>
+  <controlfield tag="001">850600087</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251981</controlfield>
   <controlfield tag="005">20080121180824.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1273,9 +1932,17 @@
     <subfield code="3">IT\ICCU\CMP\0403715</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251981</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251990</controlfield>
+  <controlfield tag="001">850600088</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251990</controlfield>
   <controlfield tag="005">20080121181646.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1286,9 +1953,17 @@
     <subfield code="3">IT\ICCU\CMP\0403724</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251990</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251983</controlfield>
+  <controlfield tag="001">850600089</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251983</controlfield>
   <controlfield tag="005">20080121180936.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1299,9 +1974,17 @@
     <subfield code="3">IT\ICCU\CMP\0403717</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251983</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01028nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251989</controlfield>
+  <controlfield tag="001">850600090</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251989</controlfield>
   <controlfield tag="005">20080121181605.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1312,9 +1995,17 @@
     <subfield code="3">IT\ICCU\CMP\0403723</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251989</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01027nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251998</controlfield>
+  <controlfield tag="001">850600091</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251998</controlfield>
   <controlfield tag="005">20080116195241.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1325,9 +2016,17 @@
     <subfield code="3">IT\ICCU\CMP\0403732</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251998</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01026nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251997</controlfield>
+  <controlfield tag="001">850600092</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251997</controlfield>
   <controlfield tag="005">20080116195203.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1338,9 +2037,17 @@
     <subfield code="3">IT\ICCU\CMP\0403731</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251997</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01022nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252012</controlfield>
+  <controlfield tag="001">850600093</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252012</controlfield>
   <controlfield tag="005">20080116200212.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1351,9 +2058,17 @@
     <subfield code="3">IT\ICCU\CMP\0403745</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252012</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252004</controlfield>
+  <controlfield tag="001">850600094</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252004</controlfield>
   <controlfield tag="005">20080116195632.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1364,9 +2079,17 @@
     <subfield code="3">IT\ICCU\CMP\0403737</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252004</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01022nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252005</controlfield>
+  <controlfield tag="001">850600095</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252005</controlfield>
   <controlfield tag="005">20080116195714.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1377,9 +2100,17 @@
     <subfield code="3">IT\ICCU\CMP\0403738</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252005</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252014</controlfield>
+  <controlfield tag="001">850600096</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252014</controlfield>
   <controlfield tag="005">20080116200333.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1390,9 +2121,17 @@
     <subfield code="3">IT\ICCU\CMP\0403747</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252014</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01022nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252006</controlfield>
+  <controlfield tag="001">850600097</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252006</controlfield>
   <controlfield tag="005">20080116195757.9</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1403,9 +2142,17 @@
     <subfield code="3">IT\ICCU\CMP\0403739</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252006</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252022</controlfield>
+  <controlfield tag="001">850600098</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252022</controlfield>
   <controlfield tag="005">20080116200922.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1416,9 +2163,17 @@
     <subfield code="3">IT\ICCU\CMP\0403755</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252022</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01022nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252013</controlfield>
+  <controlfield tag="001">850600099</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252013</controlfield>
   <controlfield tag="005">20080116200253.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1429,9 +2184,17 @@
     <subfield code="3">IT\ICCU\CMP\0403746</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252013</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251999</controlfield>
+  <controlfield tag="001">850600100</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251999</controlfield>
   <controlfield tag="005">20080116195320.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1442,9 +2205,17 @@
     <subfield code="3">IT\ICCU\CMP\0403733</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251999</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252000</controlfield>
+  <controlfield tag="001">850600101</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252000</controlfield>
   <controlfield tag="005">20080116195401.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1455,9 +2226,17 @@
     <subfield code="3">IT\ICCU\CMP\0403734</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252000</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252001</controlfield>
+  <controlfield tag="001">850600102</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252001</controlfield>
   <controlfield tag="005">20080116195442.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1468,9 +2247,17 @@
     <subfield code="3">IT\ICCU\CMP\0403735</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252001</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252009</controlfield>
+  <controlfield tag="001">850600103</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252009</controlfield>
   <controlfield tag="005">20080116200002.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1481,9 +2268,17 @@
     <subfield code="3">IT\ICCU\CMP\0403742</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252009</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252002</controlfield>
+  <controlfield tag="001">850600104</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252002</controlfield>
   <controlfield tag="005">20080116195519.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1494,9 +2289,17 @@
     <subfield code="3">IT\ICCU\CMP\0403805</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252002</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252003</controlfield>
+  <controlfield tag="001">850600105</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252003</controlfield>
   <controlfield tag="005">20080116195556.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1507,9 +2310,17 @@
     <subfield code="3">IT\ICCU\CMP\0403736</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252003</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252007</controlfield>
+  <controlfield tag="001">850600106</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252007</controlfield>
   <controlfield tag="005">20080116195839.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1520,9 +2331,17 @@
     <subfield code="3">IT\ICCU\CMP\0403740</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252007</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252008</controlfield>
+  <controlfield tag="001">850600107</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252008</controlfield>
   <controlfield tag="005">20080116195917.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1533,9 +2352,17 @@
     <subfield code="3">IT\ICCU\CMP\0403741</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252008</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01111nda2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252010</controlfield>
+  <controlfield tag="001">850600108</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252010</controlfield>
   <controlfield tag="005">20080116200047.9</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1549,9 +2376,17 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">A c.32v: per organo da camera con due tastatura flautato, ©· (!) trombone.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252010</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01035nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252011</controlfield>
+  <controlfield tag="001">850600109</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252011</controlfield>
   <controlfield tag="005">20080116200128.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1562,9 +2397,17 @@
     <subfield code="3">IT\ICCU\CMP\0403744</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252011</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252016</controlfield>
+  <controlfield tag="001">850600110</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252016</controlfield>
   <controlfield tag="005">20080116200459.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1575,9 +2418,17 @@
     <subfield code="3">IT\ICCU\CMP\0403749</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252016</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252017</controlfield>
+  <controlfield tag="001">850600111</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252017</controlfield>
   <controlfield tag="005">20080116200546.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1588,9 +2439,17 @@
     <subfield code="3">IT\ICCU\CMP\0403750</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252017</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252018</controlfield>
+  <controlfield tag="001">850600112</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252018</controlfield>
   <controlfield tag="005">20080116200630.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1601,9 +2460,17 @@
     <subfield code="3">IT\ICCU\CMP\0403751</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252018</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252019</controlfield>
+  <controlfield tag="001">850600113</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252019</controlfield>
   <controlfield tag="005">20080116200712.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1614,9 +2481,17 @@
     <subfield code="3">IT\ICCU\CMP\0403752</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252019</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252020</controlfield>
+  <controlfield tag="001">850600114</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252020</controlfield>
   <controlfield tag="005">20080116200757.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1627,9 +2502,17 @@
     <subfield code="3">IT\ICCU\CMP\0403753</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252020</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252021</controlfield>
+  <controlfield tag="001">850600115</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252021</controlfield>
   <controlfield tag="005">20080116200841.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1640,9 +2523,17 @@
     <subfield code="3">IT\ICCU\CMP\0403754</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252021</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>00883ndm2a22002891i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136132</controlfield>
+  <controlfield tag="001">850600116</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136132</controlfield>
   <controlfield tag="005">20070516145408.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1654,9 +2545,17 @@
     <subfield code="3">IT\ICCU\CMP\0339488</subfield>
     <subfield code="9">Sarti, Giuseppe &lt;1729-1802&gt;</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta  104.7</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136132</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019ndm2a22002891i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136110</controlfield>
+  <controlfield tag="001">850600117</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136110</controlfield>
   <controlfield tag="005">20070531122159.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1667,9 +2566,17 @@
     <subfield code="3">IT\ICCU\CMP\0044253</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta 104.8</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136110</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251927</controlfield>
+  <controlfield tag="001">850600118</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251927</controlfield>
   <controlfield tag="005">20080121191445.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1680,9 +2587,17 @@
     <subfield code="3">IT\ICCU\CMP\0403661</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/IV</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251927</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01025ndm2a22002891i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136090</controlfield>
+  <controlfield tag="001">850600119</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136090</controlfield>
   <controlfield tag="005">20070531115414.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1693,9 +2608,17 @@
     <subfield code="3">IT\ICCU\CMP\0042939</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta 104.8</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136090</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251925</controlfield>
+  <controlfield tag="001">850600120</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251925</controlfield>
   <controlfield tag="005">20080121191205.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1706,9 +2629,17 @@
     <subfield code="3">IT\ICCU\CMP\0403659</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/IV</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251925</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251926</controlfield>
+  <controlfield tag="001">850600121</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251926</controlfield>
   <controlfield tag="005">20080121191251.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1719,9 +2650,17 @@
     <subfield code="3">IT\ICCU\CMP\0403660</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/IV</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251926</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251932</controlfield>
+  <controlfield tag="001">850600122</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251932</controlfield>
   <controlfield tag="005">20080121191950.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1732,9 +2671,17 @@
     <subfield code="3">IT\ICCU\CMP\0403666</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/IV</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251932</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251933</controlfield>
+  <controlfield tag="001">850600123</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251933</controlfield>
   <controlfield tag="005">20080121192041.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1745,9 +2692,17 @@
     <subfield code="3">IT\ICCU\CMP\0403667</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/IV</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251933</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01016nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251941</controlfield>
+  <controlfield tag="001">850600124</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251941</controlfield>
   <controlfield tag="005">20080121183036.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1758,9 +2713,17 @@
     <subfield code="3">IT\ICCU\CMP\0403675</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251941</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01016nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251934</controlfield>
+  <controlfield tag="001">850600125</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251934</controlfield>
   <controlfield tag="005">20080121182538.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1771,9 +2734,17 @@
     <subfield code="3">IT\ICCU\CMP\0403668</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251934</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01014nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251935</controlfield>
+  <controlfield tag="001">850600126</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251935</controlfield>
   <controlfield tag="005">20080121182636.9</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1784,9 +2755,17 @@
     <subfield code="3">IT\ICCU\CMP\0403669</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251935</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01014nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251936</controlfield>
+  <controlfield tag="001">850600127</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251936</controlfield>
   <controlfield tag="005">20080121182727.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1797,9 +2776,17 @@
     <subfield code="3">IT\ICCU\CMP\0403670</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251936</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020ndm2a22002891i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136497</controlfield>
+  <controlfield tag="001">850600128</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136497</controlfield>
   <controlfield tag="005">20070531133735.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1810,9 +2797,17 @@
     <subfield code="3">IT\ICCU\CMP\0324544</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta 95.4</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136497</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01016nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251940</controlfield>
+  <controlfield tag="001">850600129</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251940</controlfield>
   <controlfield tag="005">20080121183004.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1823,9 +2818,17 @@
     <subfield code="3">IT\ICCU\CMP\0403674</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251940</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01016nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251952</controlfield>
+  <controlfield tag="001">850600130</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251952</controlfield>
   <controlfield tag="005">20080121183746.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1836,9 +2839,17 @@
     <subfield code="3">IT\ICCU\CMP\0403686</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251952</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01016nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251942</controlfield>
+  <controlfield tag="001">850600131</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251942</controlfield>
   <controlfield tag="005">20080121183113.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1849,9 +2860,17 @@
     <subfield code="3">IT\ICCU\CMP\0403676</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251942</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01015nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251943</controlfield>
+  <controlfield tag="001">850600132</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251943</controlfield>
   <controlfield tag="005">20080121183141.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1862,9 +2881,17 @@
     <subfield code="3">IT\ICCU\CMP\0403677</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251943</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01015nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251944</controlfield>
+  <controlfield tag="001">850600133</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251944</controlfield>
   <controlfield tag="005">20080121183228.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1875,9 +2902,17 @@
     <subfield code="3">IT\ICCU\CMP\0403678</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251944</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01016nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251945</controlfield>
+  <controlfield tag="001">850600134</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251945</controlfield>
   <controlfield tag="005">20080121183309.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1888,9 +2923,17 @@
     <subfield code="3">IT\ICCU\CMP\0403679</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251945</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01017nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251949</controlfield>
+  <controlfield tag="001">850600135</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251949</controlfield>
   <controlfield tag="005">20080121183552.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1901,9 +2944,17 @@
     <subfield code="3">IT\ICCU\CMP\0403683</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251949</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01015nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251950</controlfield>
+  <controlfield tag="001">850600136</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251950</controlfield>
   <controlfield tag="005">20080121183631.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1914,9 +2965,17 @@
     <subfield code="3">IT\ICCU\CMP\0403684</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251950</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01015nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251951</controlfield>
+  <controlfield tag="001">850600137</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251951</controlfield>
   <controlfield tag="005">20080121183709.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1927,9 +2986,17 @@
     <subfield code="3">IT\ICCU\CMP\0403685</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251951</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01018nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251953</controlfield>
+  <controlfield tag="001">850600138</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251953</controlfield>
   <controlfield tag="005">20080121183826.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1940,9 +3007,17 @@
     <subfield code="3">IT\ICCU\CMP\0403687</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251953</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01015nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251954</controlfield>
+  <controlfield tag="001">850600139</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251954</controlfield>
   <controlfield tag="005">20080121183905.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1953,9 +3028,17 @@
     <subfield code="3">IT\ICCU\CMP\0403688</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251954</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01015nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251955</controlfield>
+  <controlfield tag="001">850600140</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251955</controlfield>
   <controlfield tag="005">20080121183944.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1966,9 +3049,17 @@
     <subfield code="3">IT\ICCU\CMP\0403689</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251955</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01017nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251959</controlfield>
+  <controlfield tag="001">850600141</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251959</controlfield>
   <controlfield tag="005">20080121184218.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1979,9 +3070,17 @@
     <subfield code="3">IT\ICCU\CMP\0403693</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251959</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01017nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251960</controlfield>
+  <controlfield tag="001">850600142</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251960</controlfield>
   <controlfield tag="005">20080121184303.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -1992,9 +3091,17 @@
     <subfield code="3">IT\ICCU\CMP\0403694</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251960</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01017nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251961</controlfield>
+  <controlfield tag="001">850600143</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251961</controlfield>
   <controlfield tag="005">20080121184340.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2005,9 +3112,17 @@
     <subfield code="3">IT\ICCU\CMP\0403695</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251961</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01022nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251962</controlfield>
+  <controlfield tag="001">850600144</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251962</controlfield>
   <controlfield tag="005">20080121184416.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2018,9 +3133,17 @@
     <subfield code="3">IT\ICCU\CMP\0403696</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251962</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01022nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251963</controlfield>
+  <controlfield tag="001">850600145</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251963</controlfield>
   <controlfield tag="005">20080121184454.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2031,9 +3154,17 @@
     <subfield code="3">IT\ICCU\CMP\0403697</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/V</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251963</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01017nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251966</controlfield>
+  <controlfield tag="001">850600146</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251966</controlfield>
   <controlfield tag="005">20080121175933.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2044,9 +3175,17 @@
     <subfield code="3">IT\ICCU\CMP\0403700</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251966</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01017nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251967</controlfield>
+  <controlfield tag="001">850600147</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251967</controlfield>
   <controlfield tag="005">20080121180011.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2057,9 +3196,17 @@
     <subfield code="3">IT\ICCU\CMP\0403701</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251967</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01018nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251968</controlfield>
+  <controlfield tag="001">850600148</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251968</controlfield>
   <controlfield tag="005">20080121180047.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2070,9 +3217,17 @@
     <subfield code="3">IT\ICCU\CMP\0403702</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251968</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01019nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251969</controlfield>
+  <controlfield tag="001">850600149</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251969</controlfield>
   <controlfield tag="005">20080121180126.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2083,9 +3238,17 @@
     <subfield code="3">IT\ICCU\CMP\0403703</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251969</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01027nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251970</controlfield>
+  <controlfield tag="001">850600150</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251970</controlfield>
   <controlfield tag="005">20080121180204.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2096,9 +3259,17 @@
     <subfield code="3">IT\ICCU\CMP\0403704</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251970</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01027nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251971</controlfield>
+  <controlfield tag="001">850600151</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251971</controlfield>
   <controlfield tag="005">20080121180235.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2109,9 +3280,17 @@
     <subfield code="3">IT\ICCU\CMP\0403705</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251971</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01017nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251972</controlfield>
+  <controlfield tag="001">850600152</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251972</controlfield>
   <controlfield tag="005">20080121180313.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2122,9 +3301,17 @@
     <subfield code="3">IT\ICCU\CMP\0403706</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251972</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01029nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252030</controlfield>
+  <controlfield tag="001">850600153</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252030</controlfield>
   <controlfield tag="005">20080116191542.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2135,9 +3322,17 @@
     <subfield code="3">IT\ICCU\CMP\0403763</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252030</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251975</controlfield>
+  <controlfield tag="001">850600154</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251975</controlfield>
   <controlfield tag="005">20080121180455.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2148,9 +3343,17 @@
     <subfield code="3">IT\ICCU\CMP\0403709</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251975</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01121nda2a22003013i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251976</controlfield>
+  <controlfield tag="001">850600155</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251976</controlfield>
   <controlfield tag="005">20080121180529.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2164,9 +3367,17 @@
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">A c.25v: Antes de esta sonata se debe taner la q sigue, que es companera, y 1.a deesta.</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251976</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251987</controlfield>
+  <controlfield tag="001">850600156</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251987</controlfield>
   <controlfield tag="005">20080121181206.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2177,9 +3388,17 @@
     <subfield code="3">IT\ICCU\CMP\0403721</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251987</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251977</controlfield>
+  <controlfield tag="001">850600157</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251977</controlfield>
   <controlfield tag="005">20080121180604.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2190,9 +3409,17 @@
     <subfield code="3">IT\ICCU\CMP\0403711</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251977</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251978</controlfield>
+  <controlfield tag="001">850600158</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251978</controlfield>
   <controlfield tag="005">20080121180637.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2203,9 +3430,17 @@
     <subfield code="3">IT\ICCU\CMP\0403712</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251978</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251979</controlfield>
+  <controlfield tag="001">850600159</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251979</controlfield>
   <controlfield tag="005">20080121180711.9</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2216,9 +3451,17 @@
     <subfield code="3">IT\ICCU\CMP\0403713</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251979</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251980</controlfield>
+  <controlfield tag="001">850600160</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251980</controlfield>
   <controlfield tag="005">20080121180748.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2229,9 +3472,17 @@
     <subfield code="3">IT\ICCU\CMP\0403714</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251980</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01022nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252036</controlfield>
+  <controlfield tag="001">850600161</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252036</controlfield>
   <controlfield tag="005">20080116191835.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2242,9 +3493,17 @@
     <subfield code="3">IT\ICCU\CMP\0403769</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252036</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01023nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252037</controlfield>
+  <controlfield tag="001">850600162</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252037</controlfield>
   <controlfield tag="005">20080116191905.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2255,9 +3514,17 @@
     <subfield code="3">IT\ICCU\CMP\0403770</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252037</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252038</controlfield>
+  <controlfield tag="001">850600163</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252038</controlfield>
   <controlfield tag="005">20080116191938.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2268,9 +3535,17 @@
     <subfield code="3">IT\ICCU\CMP\0403771</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252038</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252031</controlfield>
+  <controlfield tag="001">850600164</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252031</controlfield>
   <controlfield tag="005">20080116191610.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2281,9 +3556,17 @@
     <subfield code="3">IT\ICCU\CMP\0403764</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252031</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251984</controlfield>
+  <controlfield tag="001">850600165</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251984</controlfield>
   <controlfield tag="005">20080121181011.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2294,9 +3577,17 @@
     <subfield code="3">IT\ICCU\CMP\0403718</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251984</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251985</controlfield>
+  <controlfield tag="001">850600166</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251985</controlfield>
   <controlfield tag="005">20080121181048.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2307,9 +3598,17 @@
     <subfield code="3">IT\ICCU\CMP\0403719</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251985</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251986</controlfield>
+  <controlfield tag="001">850600167</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251986</controlfield>
   <controlfield tag="005">20080121181127.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2320,9 +3619,17 @@
     <subfield code="3">IT\ICCU\CMP\0403720</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251986</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01018nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251995</controlfield>
+  <controlfield tag="001">850600168</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251995</controlfield>
   <controlfield tag="005">20080116195051.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2333,9 +3640,17 @@
     <subfield code="3">IT\ICCU\CMP\0403729</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251995</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01028nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251988</controlfield>
+  <controlfield tag="001">850600169</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251988</controlfield>
   <controlfield tag="005">20080121181525.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2346,9 +3661,17 @@
     <subfield code="3">IT\ICCU\CMP\0403722</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251988</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01022nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252044</controlfield>
+  <controlfield tag="001">850600170</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252044</controlfield>
   <controlfield tag="005">20080116192227.1</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2359,9 +3682,17 @@
     <subfield code="3">IT\ICCU\CMP\0403777</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252044</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252023</controlfield>
+  <controlfield tag="001">850600171</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252023</controlfield>
   <controlfield tag="005">20080116201005.9</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2372,9 +3703,17 @@
     <subfield code="3">IT\ICCU\CMP\0403756</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252023</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252024</controlfield>
+  <controlfield tag="001">850600172</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252024</controlfield>
   <controlfield tag="005">20080116201039.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2385,9 +3724,17 @@
     <subfield code="3">IT\ICCU\CMP\0403757</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252024</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01022nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252039</controlfield>
+  <controlfield tag="001">850600173</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252039</controlfield>
   <controlfield tag="005">20080116192006.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2398,9 +3745,17 @@
     <subfield code="3">IT\ICCU\CMP\0403772</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252039</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251991</controlfield>
+  <controlfield tag="001">850600174</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251991</controlfield>
   <controlfield tag="005">20080121181722.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2411,9 +3766,17 @@
     <subfield code="3">IT\ICCU\CMP\0403725</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251991</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251992</controlfield>
+  <controlfield tag="001">850600175</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251992</controlfield>
   <controlfield tag="005">20080121181803.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2424,9 +3787,17 @@
     <subfield code="3">IT\ICCU\CMP\0403726</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251992</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251993</controlfield>
+  <controlfield tag="001">850600176</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251993</controlfield>
   <controlfield tag="005">20080121181839.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2437,9 +3808,17 @@
     <subfield code="3">IT\ICCU\CMP\0403727</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VI</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251993</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01018nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251994</controlfield>
+  <controlfield tag="001">850600177</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251994</controlfield>
   <controlfield tag="005">20080116194954.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2450,9 +3829,17 @@
     <subfield code="3">IT\ICCU\CMP\0403728</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251994</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01018nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0251996</controlfield>
+  <controlfield tag="001">850600178</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0251996</controlfield>
   <controlfield tag="005">20080116195126.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2463,9 +3850,17 @@
     <subfield code="3">IT\ICCU\CMP\0403730</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0251996</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01021nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252032</controlfield>
+  <controlfield tag="001">850600179</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252032</controlfield>
   <controlfield tag="005">20080116191640.7</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2476,9 +3871,17 @@
     <subfield code="3">IT\ICCU\CMP\0403765</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252032</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01026nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252025</controlfield>
+  <controlfield tag="001">850600180</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252025</controlfield>
   <controlfield tag="005">20080116191301.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2489,9 +3892,17 @@
     <subfield code="3">IT\ICCU\CMP\0403758</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252025</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01022nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252040</controlfield>
+  <controlfield tag="001">850600181</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252040</controlfield>
   <controlfield tag="005">20080116192035.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2502,9 +3913,17 @@
     <subfield code="3">IT\ICCU\CMP\0403773</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252040</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01029nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252041</controlfield>
+  <controlfield tag="001">850600182</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252041</controlfield>
   <controlfield tag="005">20080116192106.0</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2515,9 +3934,17 @@
     <subfield code="3">IT\ICCU\CMP\0403774</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252041</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252027</controlfield>
+  <controlfield tag="001">850600183</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252027</controlfield>
   <controlfield tag="005">20080116191413.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2528,18 +3955,34 @@
     <subfield code="3">IT\ICCU\CMP\0403760</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252027</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>00862nda2a22002291i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136011</controlfield>
+  <controlfield tag="001">850600184</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136011</controlfield>
   <controlfield tag="005">20130720184948.0</controlfield>
   <datafield tag="240" ind1="1" ind2="1">
     <subfield code="a">Boh©·me</subfield>
     <subfield code="3">IT\ICCU\CMP\0006563</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-VIb</subfield>
+    <subfield code="c">FF.3.1.54.43</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136011</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>00995ndm2a22002891i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136074</controlfield>
+  <controlfield tag="001">850600185</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136074</controlfield>
   <controlfield tag="005">20070531132101.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2550,9 +3993,17 @@
     <subfield code="3">IT\ICCU\CMP\0043407</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta 104.8</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136074</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01017nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252026</controlfield>
+  <controlfield tag="001">850600186</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252026</controlfield>
   <controlfield tag="005">20080116191340.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2563,9 +4014,17 @@
     <subfield code="3">IT\ICCU\CMP\0403759</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252026</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01029nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252033</controlfield>
+  <controlfield tag="001">850600187</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252033</controlfield>
   <controlfield tag="005">20080116191708.2</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2576,9 +4035,17 @@
     <subfield code="3">IT\ICCU\CMP\0403766</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252033</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252028</controlfield>
+  <controlfield tag="001">850600188</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252028</controlfield>
   <controlfield tag="005">20080116191445.5</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2589,9 +4056,17 @@
     <subfield code="3">IT\ICCU\CMP\0403761</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252028</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01085ndm2a22002891i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136414</controlfield>
+  <controlfield tag="001">850600189</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136414</controlfield>
   <controlfield tag="005">20080805132810.3</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2602,9 +4077,17 @@
     <subfield code="3">IT\ICCU\CMP\0242827</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta 95.6</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136414</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01001ndm2a22002891i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136438</controlfield>
+  <controlfield tag="001">850600190</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136438</controlfield>
   <controlfield tag="005">20080805132353.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2615,9 +4098,17 @@
     <subfield code="3">IT\ICCU\CMP\0242827</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta 95.5</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136438</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01020ndm2a22002891i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136465</controlfield>
+  <controlfield tag="001">850600191</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136465</controlfield>
   <controlfield tag="005">20070524131654.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2628,9 +4119,17 @@
     <subfield code="3">IT\ICCU\CMP\0341128</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta 95.4</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136465</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01028ndm2a22002891i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136480</controlfield>
+  <controlfield tag="001">850600192</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136480</controlfield>
   <controlfield tag="005">20070524135405.8</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2641,9 +4140,17 @@
     <subfield code="3">IT\ICCU\CMP\0042936</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta 95.4</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136480</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01035ndm2a22002891i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136345</controlfield>
+  <controlfield tag="001">850600193</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136345</controlfield>
   <controlfield tag="005">20070531135628.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2654,9 +4161,17 @@
     <subfield code="3">IT\ICCU\CMP\0339439</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta 95.8</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136345</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01038ndm2a22002891i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136360</controlfield>
+  <controlfield tag="001">850600194</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136360</controlfield>
   <controlfield tag="005">20070524135209.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2667,9 +4182,17 @@
     <subfield code="3">IT\ICCU\CMP\0042936</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta 95.8</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136360</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01028ndm2a22002891i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136391</controlfield>
+  <controlfield tag="001">850600195</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136391</controlfield>
   <controlfield tag="005">20070524135129.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2680,9 +4203,17 @@
     <subfield code="3">IT\ICCU\CMP\0042936</subfield>
     <subfield code="9">Furlanetto, Bonaventura</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta 95.7</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136391</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01313ndm2a22003251i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MUS\0136563</controlfield>
+  <controlfield tag="001">850600196</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MUS0136563</controlfield>
   <controlfield tag="005">20080728112057.4</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2693,9 +4224,17 @@
     <subfield code="3">IT\ICCU\CMP\0389425</subfield>
     <subfield code="9">Latilla, Gaetano</subfield>
   </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">Busta 95.2</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MUS0136563</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
 </record><record>
   <leader>01030nda2a22002893i 450 </leader>
-  <controlfield tag="001">IT\ICCU\MSM\0252034</controlfield>
+  <controlfield tag="001">850600197</controlfield>
   <controlfield tag="003">http://id.sbn.it/bid/MSM0252034</controlfield>
   <controlfield tag="005">20080116191735.6</controlfield>
   <datafield tag="100" ind1=" " ind2="1">
@@ -2705,6 +4244,14 @@
     <subfield code="a">Sonate. Cembalo. K.311. si bemolle maggiore</subfield>
     <subfield code="3">IT\ICCU\CMP\0403767</subfield>
     <subfield code="9">Scarlatti, Domenico</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-PAc</subfield>
+    <subfield code="c">Psi.I.48/VIII</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0252034</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
   </datafield>
 </record>
 </collection>
