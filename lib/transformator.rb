@@ -59,6 +59,23 @@ module Marcxml
       end
     end
 
+    def insert_datafield_with_subfield(opts={})
+      raise "Missing key" unless opts.keys.sort == [:tag, :code, :content].sort
+      tag = opts[:tag]
+      code = opts[:code]
+      content = opts[:content]
+      target = Nokogiri::XML::Node.new "datafield", node
+      target['tag'] = tag
+      target['ind1'] = ' '
+      target['ind2'] = ' '
+      sf = Nokogiri::XML::Node.new "subfield", node
+      sf['code'] = code
+      sf.content = content
+      target << sf
+      node.root << target
+    end
+
+
     def move_subfield_to_tag(from_tag, tag)
       ftag=from_tag.split("$")[0]
       fcode=from_tag.split("$")[1]

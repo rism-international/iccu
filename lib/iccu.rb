@@ -21,12 +21,21 @@ module Marcxml
       @namespace = namespace
       @node = node
       @methods = [:map, :replace_rism_siglum, :fix_id, :add_original_entry, 
-                 #:fix_id, :change_attribution, :prefix_performance,
-                 #:split_730, :change_243, :change_593_abbreviation, :change_009, 
                   :concat_personal_name, :remove_whitespace_from_incipit,
-                 #:add_original_entry, :add_material_layer, :fix_incipit_zeros, :change_relator_codes, 
-                 #:fix_852, :remove_pipe
+                  :update_title
       ]
+    end
+
+    def update_title
+      datafields=node.xpath("//marc:datafield[@tag='240']", NAMESPACE)
+      if datafields.empty?
+        insert_datafield_with_subfield({tag: '240', code: 'a', content: 'Pieces'})
+      end
+      
+      datafields=node.xpath("//marc:datafield[@tag='245']", NAMESPACE)
+      if datafields.empty?
+        insert_datafield_with_subfield({tag: '245', code: 'a', content: "[without title]"})
+      end
     end
 
     def replace_rism_siglum
@@ -128,15 +137,7 @@ module Marcxml
       cfield = node.xpath("//marc:controlfield[@tag='009']", NAMESPACE).empty? ? nil : node.xpath("//marc:controlfield[@tag='009']", NAMESPACE)
       return 0 unless cfield
       local_id = cfield.first.content
-      tag = Nokogiri::XML::Node.new "datafield", node
-      tag['tag'] = '035'
-      tag['ind1'] = ' '
-      tag['ind2'] = ' '
-      sfa = Nokogiri::XML::Node.new "subfield", node
-      sfa['code'] = 'a'
-      sfa.content = local_id
-      tag << sfa
-      node.root << tag
+      insert_datafield_with_subfield({tag: "035", code: "a", content: local_id})
       cfield.remove
     end
 

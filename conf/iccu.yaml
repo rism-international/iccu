@@ -34,7 +34,7 @@ Mapping:
 #  - 183$6: ~ # 114549 (z01)
 #  - 183$a: ~ # 114343 (zu)
 #  - 183$c: ~ # 206 (nb)
-#  - 200$a: ~ # 218064 (O Admirabile Cummercium)
+  - 200$a: 245$a # 218064 (O Admirabile Cummercium)
 #  - 200$c: ~ # 271 (S.G.G. [teatro S. Giovanni Grisostomo])
 #  - 200$d: ~ # 868 (Di Mad.e Fodor)
   - 200$e: 657$a # 5439 (Protomartyris)
@@ -63,8 +63,8 @@ Mapping:
 #  - 215$d: ~ # 128668 (34 cm)
 #  - 215$e: ~ # 14876 (1 foglio di schizzo)
 #  # 500
-  - "500": "240" # 201418 (O Admirabile Cummercium. Soprano, Contralto, Tenore, Basso)
-#  - 500$c: ~ # 14 (.)
+  - "500$a": "240$a" # 201418 (O Admirabile Cummercium. Soprano, Contralto, Tenore, Basso)
+  - "500": ~ # 14 (.)
 #  - 500$f: ~ # 45 (Spiritus. Soprano,Coro a 4 voci,Orchestra. fa maggiore)
 #  - 500$x: ~ # 72 (ITA)
 
