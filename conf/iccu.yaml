@@ -10,7 +10,7 @@ Mapping:
 #  - 071$a: ~ # 19 (4774)
 #  - 100$a: ~ # 217699 (20040101f19201987||||0itac50      ba)
   - "100": ~ # 349 (abs)
-#  - 101$a: ~ # 241148 (lat)
+  - 101$a: 041$a # 241148 (lat)
   - "101": ~ # 349 (abs)
   - "102": ~
 #  - 102$a: ~ # 73207 (IT)
@@ -34,11 +34,12 @@ Mapping:
 #  - 183$6: ~ # 114549 (z01)
 #  - 183$a: ~ # 114343 (zu)
 #  - 183$c: ~ # 206 (nb)
-  - "200": ~
 #  - 200$a: ~ # 218064 (O Admirabile Cummercium)
 #  - 200$c: ~ # 271 (S.G.G. [teatro S. Giovanni Grisostomo])
 #  - 200$d: ~ # 868 (Di Mad.e Fodor)
-#  - 200$e: ~ # 5439 (Protomartyris)
+  - 200$e: 657$a # 5439 (Protomartyris)
+
+  - "200": ~
 #  - 200$f: ~ # 11771 (Costantini)
 #  - 200$g: ~ # 1214 ([trascritto da autore ignoto])
   - "205": ~
@@ -107,8 +108,8 @@ Mapping:
 #  - 440$a: ~ # 1 (Moses und Aron)
 #  - 440$e: ~ # 1 (Zwischenspiel)
 #  - 440$f: ~ # 1 (Arnold Schoenberg)
+  - 461$1: 773$w # 8438 (001IT\ICCU\MUS\0053176)
   - "461": ~
-#  - 461$1: ~ # 8438 (001IT\ICCU\MUS\0053176)
 #  - 461$3: ~ # 2614 (IT\ICCU\MUSV\028042)
 #  - 461$4: ~ # 2611 (230)
 #  - 461$a: ~ # 5526 ([Raccolta di mottetti a 4 voci)

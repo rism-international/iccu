@@ -23,7 +23,7 @@ module Marcxml
       @methods = [:map, :replace_rism_siglum, :fix_id, :add_original_entry, 
                  #:fix_id, :change_attribution, :prefix_performance,
                  #:split_730, :change_243, :change_593_abbreviation, :change_009, 
-                  :concat_personal_name, :remove_whitespace_from_incipit, 
+                  :concat_personal_name, :remove_whitespace_from_incipit,
                  #:add_original_entry, :add_material_layer, :fix_incipit_zeros, :change_relator_codes, 
                  #:fix_852, :remove_pipe
       ]
@@ -54,16 +54,25 @@ module Marcxml
 
     end
 
-
     def fix_id
       controlfield = node.xpath("//marc:controlfield[@tag='001']", NAMESPACE).first
       if ((Integer(controlfield.content) rescue false) == false)
         controlfield.content = Iccu.ids[controlfield.content]
       end
       #TODO find linking field
-      datafield = node.xpath("//marc:datafield[@tag='773']/marc:subfield[@code='w']", NAMESPACE).first rescue nil
-      if datafield
-        datafield.content = Iccu.ids[datafield.content]
+      subfields = node.xpath("//marc:datafield[@tag='773']/marc:subfield[@code='w']", NAMESPACE)
+      subfields.each do |subfield|
+        if subfield.content.start_with?("001")
+          collection_id_s = subfield.content[3..-1]
+          unless Iccu.ids[collection_id_s]
+            collection_id = "########"
+          else
+            collection_id = Iccu.ids[collection_id_s]
+          end
+          subfield.content = collection_id
+        else
+          subfield.parent.remove
+        end
       end
       #links = node.xpath("//marc:datafield[@tag='773']/marc:subfield[@code='w']", NAMESPACE)
       #links.each {|link| link.content = link.content.gsub("(OCoLC)", "1")}
