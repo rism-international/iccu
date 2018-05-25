@@ -44,18 +44,31 @@ module Marcxml
       fcode=from_tag.split("$")[1]
       ttag=tag.split("$")[0]
       tcode=tag.split("$")[1]
-      sources=node.xpath("//marc:datafield[@tag='#{ftag}']/marc:subfield[@code='#{fcode}']", NAMESPACE)
-      sources.each do |s| 
-        target = Nokogiri::XML::Node.new "datafield", node
-        target['tag'] = ttag
-        target['ind1'] = ' '
-        target['ind2'] = ' '
-        sf = Nokogiri::XML::Node.new "subfield", node
-        sf['code'] = tcode
-        sf.content = s.content
-        target << sf
-        node.root << target
-        s.remove
+      new_subfields=node.xpath("//marc:datafield[@tag='#{ftag}']/marc:subfield[@code='#{fcode}']", NAMESPACE)
+
+
+      new_subfields.each do |new_subfield|
+        target_datafields = node.xpath("//marc:datafield[@tag='#{ttag}']", NAMESPACE)
+
+        if target_datafields.empty?
+          target = Nokogiri::XML::Node.new "datafield", node
+          target['tag'] = ttag
+          target['ind1'] = ' '
+          target['ind2'] = ' '
+          sf = Nokogiri::XML::Node.new "subfield", node
+          sf['code'] = tcode
+          sf.content = new_subfield.content
+          target << sf
+          node.root << target
+          new_subfield.remove
+        else
+          target_datafield = target_datafields.first
+          sf = Nokogiri::XML::Node.new "subfield", node
+          sf['code'] = tcode
+          sf.content = new_subfield.content
+          target_datafield << sf
+          new_subfield.remove
+        end
       end
     end
 
@@ -116,7 +129,7 @@ module Marcxml
 
     def rename_datafield(tag, new_tag)
       if !node.xpath("//marc:datafield[@tag='#{new_tag}']", NAMESPACE).empty? && !node.xpath("//marc:datafield[@tag='#{tag}']", NAMESPACE).empty?
-        puts "WARNING: Tag #{new_tag} already exits!"
+        #puts "WARNING: Tag #{new_tag} already exits!"
       end
       datafield=node.xpath("//marc:datafield[@tag='#{tag}']", NAMESPACE)
       datafield.attr('tag', new_tag) if datafield

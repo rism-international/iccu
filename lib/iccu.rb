@@ -20,7 +20,7 @@ module Marcxml
     def initialize(node, namespace={'marc' => "http://www.loc.gov/MARC21/slim"})
       @namespace = namespace
       @node = node
-      @methods = [:map, :replace_rism_siglum, :fix_id, :add_original_entry, 
+      @methods = [:map, :replace_rism_siglum, :insert_773_ref, :fix_id, :add_original_entry, 
                   :concat_personal_name, :remove_whitespace_from_incipit,
                   :update_title
       ]
@@ -143,18 +143,22 @@ module Marcxml
 
 
     def insert_773_ref
-      if BNF.refs.empty?
-        BNF.correspondance
+      refs = %w(461 463 464)
+      refs.each do |e|
+        ref = node.xpath("//marc:datafield[@tag='#{e}']", NAMESPACE)
+        next if ref.empty?
+        local_ref = ref.xpath("marc:subfield[@code='1']", NAMESPACE).first
+        tag = Nokogiri::XML::Node.new "datafield", node
+        tag['tag'] = '773'
+        tag['ind1'] = ' '
+        tag['ind2'] = ' '
+        sfw = Nokogiri::XML::Node.new "subfield", node
+        sfw['code'] = 'w'
+        sfw.content = local_ref.content
+        tag << sfw
+        node.root << tag
+        ref.remove
       end
-      
-      subfields=node.xpath("//marc:datafield[@tag='773']/marc:subfield[@code='a']", NAMESPACE)
-      return 0 if subfields.empty?
-      local_ref = subfields.first.content
-      rism_ref = BNF.refs[local_ref]
-      sfw = Nokogiri::XML::Node.new "subfield", node
-      sfw['code'] = 'w'
-      sfw.content = rism_ref
-      subfields.first.parent << sfw
     end
 
     def check_material

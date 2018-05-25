@@ -18,8 +18,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">O Admirabile Cummercium</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">O Admirabile Cummercium</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -41,6 +50,12 @@
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">In Circumcisione</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="c">34 cm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
   </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
@@ -72,8 +87,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Dicunt infantes</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Dicunt infantes</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -99,8 +123,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Innocentes Pro Christo</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Innocentes pro Christe</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -126,8 +159,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Innocentes Pro Christo</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Innocentes pro Christo occisi sunt</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -153,8 +195,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Vox in Rama audita est</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Vox in Rama audita est</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -176,6 +227,12 @@
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">S. S. Innocentium M. M.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="c">34 cm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
   </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
@@ -208,8 +265,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Valde honorandus est</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Valde honorandus est</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -235,8 +301,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Iste est Joannes</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Iste est Joannes</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -262,8 +337,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Hic est beatissimus Evangelista</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Hic est beatissimus Evangelista </subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -289,8 +373,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Sepelierunt Stephanum</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sepelierunt Stephanum</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -316,8 +409,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Lapidabant Stephanum</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Lapidabant Stephanum</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -339,6 +441,12 @@
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Sancti Stephani</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="c">34 cm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
   </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
@@ -374,8 +482,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Pastores Loquebantur</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Pastores loquebantur</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -401,8 +518,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Hodie apparuit in Israel</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Hodie apparuit in Israel</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -428,8 +554,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Hodie beata virgo Maria</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Hodie Beata Virgo Maria</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -451,6 +586,12 @@
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">In purificazione B.V.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="c">34 cm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
   </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
@@ -482,8 +623,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Dextera Domini</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Dextera Domini.</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">850806642</subfield>
@@ -512,8 +662,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Jubilate Deo</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Jubilate deo</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">850806642</subfield>
@@ -542,8 +701,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ab Oriente venerunt Magi</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ab Oriente venerunt Magi </subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -569,8 +737,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Tribus miraculis</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Tribus miraculis</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -596,8 +773,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Videntes stellam</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Videntes stellam </subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -619,6 +805,12 @@
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">In Epiphania Domini </subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="c">34 cm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
   </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
@@ -650,8 +842,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Jesu dulcis memoria</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Jesu dulcis memoria </subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -677,8 +878,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">O bone Jesu</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">O bone Jesu, miserere</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -704,8 +914,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Jesu decus Angelicum</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Jesu decus Angelicum</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -731,8 +950,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ecce Maria genuit</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ecce Maria genuit</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -758,8 +986,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Magnum hereditatis misterium</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Magnum haereditatis misterium</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -785,8 +1022,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Pueri concinite</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Pueri concinite</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -812,8 +1058,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Natus est nobis Deus de Deo</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Natus est nobis Deus de Deo</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -839,8 +1094,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Hodie nobis de coelo</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Hodie nobis de caelo</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -866,8 +1130,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">℗O ℗magnum mysterium</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">O magnum misterium</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -893,8 +1166,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ecce iam venit plenitudo</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ecce iam venit plenitudo</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -920,8 +1202,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ecce enim evangelizo</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ecce enim evangelizo</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -947,8 +1238,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Hodie Christus Natus Est</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Hodie Christus Natus est</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -975,8 +1275,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Hodie Christus natus est</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Hodie Christus</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1002,8 +1311,21 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Hodie Christus natus est</subfield>
   </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+    <subfield code="c">[19..?]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">1 Partitura (P. 101-105)</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Hodie Christus natus est</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1029,8 +1351,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Hodie Christus natus est</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Hodie Christus natus est</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1056,8 +1387,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Hodie nobis coelorum rex</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Hodie nobis coelorum rex</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1083,8 +1423,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Dies sanctificatus</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Dies Sanctificatus</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1110,8 +1459,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Missa Dies sanctificatus</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Missa Dies Sanctificatus</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1133,6 +1491,12 @@
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">In Nativitate Domini</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="c">34 cm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
   </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
@@ -1164,8 +1528,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ave Maria</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ave Maria</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1191,8 +1564,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ave Maria alta stirps</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ave Maria alta stirp</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1218,8 +1600,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ave Maria</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ave Maria ...</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1245,8 +1636,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ave Maria</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ave Maria</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1272,8 +1672,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ave Maria</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ave Maria</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1299,8 +1708,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ave Maria</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ave Maria ...</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1327,8 +1745,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ave Maria</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ave Maria ...</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1354,8 +1781,21 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ave Maria</subfield>
   </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+    <subfield code="c">[19..?]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">1 Partitura (P. 48-52)</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ave Maria ...</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1382,8 +1822,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ave Maria</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ave Maria ...</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1409,8 +1858,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ave Maria</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ave Maria, gratia plena</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1436,8 +1894,21 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">De coelo veniet</subfield>
   </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+    <subfield code="c">[19..?]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">1 Partitura (P. 41-44)</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">De coelo veniet</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1463,8 +1934,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Egredietur Virga</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Egredietur virga</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1491,8 +1971,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Dicite pusillanimes, K. 286</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Dicite:pusillanimes</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1518,8 +2007,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Cum audisset Joannes</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Cum audisset Joannes</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1545,8 +2043,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Suscipe verbum virgo Maria</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Suscipe Verbum Virgo Maria</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1572,8 +2079,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Obsecro Domine</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Obsecro Domine</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1599,8 +2115,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Praeparate corda vestra</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Praeparate corda vestra</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1626,8 +2151,21 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Praeparate corda vostra</subfield>
   </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+    <subfield code="c">[19..?]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">1 Partitura (P. 13-16)</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Praeparate corda vostra</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1653,8 +2191,18 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ecce concipies</subfield>
   </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+    <subfield code="c">[19..?]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">1 Partitura (P. 10-13)</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ecce concipies</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1680,8 +2228,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Ad te levavi</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[partitura]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Ad te Levavi</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-Vlevi</subfield>
@@ -1704,8 +2261,17 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Proprium de Tempore</subfield>
   </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="c">34 cm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Proprium de Tempore</subfield>
   </datafield>
   <datafield tag="657" ind1=" " ind2=" ">
     <subfield code="a">Tempore Adventus</subfield>
@@ -1733,6 +2299,16 @@
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">[Raccolta di mottetti a 4 voci</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+    <subfield code="c">[19..?]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="c">34 cm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">1 v.</subfield>
   </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione anastatica del manoscritto</subfield>
@@ -1780,8 +2356,21 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Suspire...</subfield>
   </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Autografo incerto, 2. met© del 20. sec</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[Partitura]</subfield>
+    <subfield code="c">34 cm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">1 partitura (2 p.)</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Riproduzione xerox di ms.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Terra lontana</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-BRc</subfield>
@@ -1817,8 +2406,21 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">A Cinque</subfield>
   </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[2. met© 16. sec.]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[Parti]</subfield>
+    <subfield code="c">170 x 243 mm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">4 parti (1 c. ciascuna)</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Macchie d'inchiostro blu sulla parte di soprano</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Donne gentil' in voi si chiara</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-SGc</subfield>
@@ -1851,8 +2453,21 @@
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">D'oro fiammeggian l'onde</subfield>
   </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[2. met© 16. sec.]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[Parti]</subfield>
+    <subfield code="c">240 x 170 mm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">4 parti (Mzs, A, A, T, 1 c. ciascuna)</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">Manca certamente una parte di soprano</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">D'oro fiammeggian l'onde</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-SGc</subfield>
@@ -1875,9 +2490,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.292. mi minore</subfield>
+    <subfield code="r">e </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">22</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.42v-44r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -1900,9 +2533,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.217. la minore</subfield>
+    <subfield code="r">a </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">27</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro IV, cc.53v-55r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -1925,9 +2576,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.215. Mi maggiore</subfield>
+    <subfield code="r">E </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro IV, cc.49v-51r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -1950,9 +2619,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.216. Mi maggiore</subfield>
+    <subfield code="r">E </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">26</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro IV, cc.51v-53r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -1975,9 +2662,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.218. la minore</subfield>
+    <subfield code="r">a </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">28</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro IV, cc.55v-57r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2000,9 +2705,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.222. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">4</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.7v-9r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2025,9 +2748,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.132. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">5</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.9v-11r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2050,9 +2791,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.229. si bemolle maggiore</subfield>
+    <subfield code="r">Bb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">14</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.27v-29r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2075,9 +2834,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.133. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">6</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.11v-13r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2100,9 +2877,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.228. si bemolle maggiore</subfield>
+    <subfield code="r">Bb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">13</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.25v-27r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2125,9 +2920,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.241. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">24</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.47v-49r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2150,9 +2963,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.230. do minore</subfield>
+    <subfield code="r">c </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">15</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.29v-31r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2175,9 +3006,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.240. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">23</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.45v-47r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2200,9 +3049,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.249. si bemolle maggiore</subfield>
+    <subfield code="r">Bb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">2</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.3v-5r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2225,9 +3092,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.242. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.49v-51r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2250,9 +3135,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.248. si bemolle maggiore</subfield>
+    <subfield code="r">Bb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">1.a</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.1v-3r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2275,9 +3178,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.256. fa maggiore</subfield>
+    <subfield code="r">F </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">11</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.21v-23r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2300,9 +3221,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.255. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">10</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.19v-21r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2325,9 +3264,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.263. mi minore</subfield>
+    <subfield code="r">e </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">19</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.37v-39r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2350,9 +3307,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.262. si maggiore</subfield>
+    <subfield code="r">B </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">18</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.35v-37r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2375,9 +3350,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.177. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">27</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.53v-55r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2400,9 +3393,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.264. Mi maggiore</subfield>
+    <subfield code="r">E </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">20</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.39v-41r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2425,9 +3436,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.273. si bemolle maggiore</subfield>
+    <subfield code="r">Bb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">26</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.51r-53r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2450,9 +3479,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.267. si bemolle maggiore</subfield>
+    <subfield code="r">Bb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">5</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.8v-10r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2475,9 +3522,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.266. si bemolle maggiore</subfield>
+    <subfield code="r">Bb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">4</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.6v-8r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2500,9 +3565,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.289. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">19</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.36v-38r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2525,9 +3608,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.282. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">11</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.20v-22r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2550,9 +3651,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.283. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">12</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.22v-24r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2575,9 +3694,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.291. mi minore</subfield>
+    <subfield code="r">e </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">21</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.40v-42r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2600,9 +3737,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.284. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">13</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.24v-26r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2625,9 +3780,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.301. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">29</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.56v-58r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2650,9 +3823,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.290. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">20</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.38v-40r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2675,9 +3866,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.277. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">6</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.10v-12r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2700,9 +3909,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.278. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">7</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.12v-14r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2725,9 +3952,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.279. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">8</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.14v-16r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2750,9 +3995,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.265. la minore</subfield>
+    <subfield code="r">a </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">16</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.30v-32r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2775,9 +4038,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.280. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">9</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.16v-18r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2800,9 +4081,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.281. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">10</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.19r-20r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2825,9 +4124,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.285. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">14</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.26v-28r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2850,9 +4167,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.286. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">15</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.28v-30r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2875,12 +4210,30 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.287. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">17</subfield>
   </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.32v-33v</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">A c.32v: per organo da camera con due tastatura flautato, ©· (!) trombone.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2903,9 +4256,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.288. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">18</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.34v-36r (c.34r vuota)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2928,9 +4299,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.293. si minore</subfield>
+    <subfield code="r">b </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">23</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.44v-46r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2953,9 +4342,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.294. re minore</subfield>
+    <subfield code="r">d </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">24</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.46v-48r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -2978,9 +4385,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.295. re minore</subfield>
+    <subfield code="r">d </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.48v-50r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3003,9 +4428,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.298. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">26</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.50v-52r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3028,9 +4471,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.299. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">27</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.52v-54r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3053,9 +4514,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.300. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">28</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.54v-56r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3079,8 +4558,21 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Versetti. Soprano. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Versetti</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
     <subfield code="a">Versetti</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
@@ -3107,9 +4599,22 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Alma Redemptoris. Soprano,Orchestra. N.22. si bemolle maggiore</subfield>
+    <subfield code="r">Bb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">ALMA REDEMPTORIS</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a"> Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Alma Redemptoris</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">########</subfield>
@@ -3135,9 +4640,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.205. fa maggiore</subfield>
+    <subfield code="r">F </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">24</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro IV, cc.45v-49r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3160,9 +4683,22 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Alma Redemptoris. Soprano,Orchestra. N.20. mi bemolle maggiore</subfield>
+    <subfield code="r">Eb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">ALMA REDEMPTORIS</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a"> Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Alma Redemptoris</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">########</subfield>
@@ -3188,9 +4724,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.204a. fa minore</subfield>
+    <subfield code="r">f </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">22</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro IV, cc.41v-43r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3213,9 +4767,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.204b. fa minore</subfield>
+    <subfield code="r">f </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">23</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro IV, cc.43v-45r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3238,9 +4810,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.219. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">29</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro IV, cc.57v-59r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3263,9 +4853,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.220. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">30</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro IV, cc.59v-61r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3288,9 +4896,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.224. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">8</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.15v-17r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3313,9 +4939,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.206. Mi maggiore</subfield>
+    <subfield code="r">E </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">1.a</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.1v-3r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3338,9 +4982,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.207. Mi maggiore</subfield>
+    <subfield code="r">E </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">2</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.3v-5r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3363,9 +5025,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.221. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">3</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.5v-7r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3388,9 +5068,22 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Alma Redemptoris. Soprano,Orchestra. N.26. fa maggiore</subfield>
+    <subfield code="r">F </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">ALMA REDEMPTORIS, ANTIFONA</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a"> Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Alma Redemptoris</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">########</subfield>
@@ -3416,9 +5109,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.223. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">7</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.13v-15r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3441,9 +5152,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.234. sol minore</subfield>
+    <subfield code="r">g </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">19</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.37v-39r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3466,9 +5195,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.225. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">9</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.17v-19r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3491,9 +5238,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.226. do minore</subfield>
+    <subfield code="r">c </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">10</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.10v-21r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3516,9 +5281,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.227. si minore</subfield>
+    <subfield code="r">b </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">11</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.21v-23r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3541,9 +5324,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.108. sol minore</subfield>
+    <subfield code="r">g </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">12</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.23v-25r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3566,9 +5367,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.231. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">16</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.31v-33r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3591,9 +5410,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.232. mi minore</subfield>
+    <subfield code="r">e </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">17</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.33v-35r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3616,9 +5453,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.233. mi minore</subfield>
+    <subfield code="r">e </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">18</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.35v-37r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3641,9 +5496,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.235. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">20</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.39v-41r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3666,9 +5539,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.238. fa minore</subfield>
+    <subfield code="r">f </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">21</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.41v-43r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3691,9 +5582,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.239. fa minore</subfield>
+    <subfield code="r">f </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">22</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.43v-45r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3716,9 +5625,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.243. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">26</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro V, cc.51v-53r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3741,9 +5668,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.244. si maggiore</subfield>
+    <subfield code="r">B </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">27</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.53v-55r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3766,9 +5711,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.245. si maggiore</subfield>
+    <subfield code="r">B </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">28</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.55v-57r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3791,9 +5754,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.246. do diesis minore</subfield>
+    <subfield code="r">cx</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">29</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.57v-59r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3816,9 +5797,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.247. do diesis minore</subfield>
+    <subfield code="r">cx</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">30</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1752</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 5, cc.59v-61r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3841,9 +5840,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.236. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">3</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.5v-7r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3866,9 +5883,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.237. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">4</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.7v-9r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3891,9 +5926,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.250. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">5</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.9v-11r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3916,9 +5969,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.251. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">6</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.11v-13r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3941,9 +6012,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.252. mi bemolle maggiore</subfield>
+    <subfield code="r">Eb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">7</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.13v-15r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3966,9 +6055,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.253. mi bemolle maggiore</subfield>
+    <subfield code="r">Eb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">8</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.15v-17r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -3991,9 +6098,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.254. do minore</subfield>
+    <subfield code="r">c </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">9</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.17v-19r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4016,9 +6141,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.307. mi bemolle maggiore</subfield>
+    <subfield code="r">Eb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">6</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.10v-12r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4041,9 +6184,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.257. fa maggiore</subfield>
+    <subfield code="r">F </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">12</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.23v-25r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4066,12 +6227,30 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.53. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">13</subfield>
   </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.25v-27r</subfield>
+  </datafield>
   <datafield tag="500" ind1=" " ind2=" ">
     <subfield code="a">A c.25v: Antes de esta sonata se debe taner la q sigue, que es companera, y 1.a deesta.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4094,9 +6273,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.271. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">24</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.47v-49r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4119,9 +6316,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.258. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">14</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.27v-29r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4144,9 +6359,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.259. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">15</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.29v-31r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4169,9 +6402,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.260. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">16</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.31v-33r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4194,9 +6445,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.261. si maggiore</subfield>
+    <subfield code="r">B </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">17</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.33v-35r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4219,9 +6488,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.313. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">12</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.22v-24r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4244,9 +6531,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.314. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">13</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.24v-26r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4269,9 +6574,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.315. sol minore</subfield>
+    <subfield code="r">g </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">14</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.26v-28r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4294,9 +6617,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.308. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">7</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.12v-14r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4319,9 +6660,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.268. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">21</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.41v-43r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4344,9 +6703,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.269. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">22</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.43v-45r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4369,9 +6746,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.270. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">23</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.45v-47r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4394,9 +6789,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.275. fa maggiore</subfield>
+    <subfield code="r">F </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">2</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.2v-4r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4419,9 +6832,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.272. si bemolle maggiore</subfield>
+    <subfield code="r">Bb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">25</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.49v-51r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4444,9 +6875,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.321. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">20</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.38v-40r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4469,9 +6918,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.296. fa maggiore</subfield>
+    <subfield code="r">F </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">30</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.58v-61r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4494,9 +6961,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.297. fa maggiore</subfield>
+    <subfield code="r">F </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">31</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.61v-63r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4519,9 +7004,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.316. fa maggiore</subfield>
+    <subfield code="r">F </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">15</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.28v-30r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4544,9 +7047,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.178. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">28</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.55v-56r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4569,9 +7090,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.199. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">29</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.56v-58r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4594,9 +7133,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.200. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">30</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 6.o, cc.58v-60r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4619,9 +7176,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.274. fa maggiore</subfield>
+    <subfield code="r">F </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">1</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.1v-2r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4644,9 +7219,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.276. fa maggiore</subfield>
+    <subfield code="r">F </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">3</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 7.o, cc.4v-6r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4669,9 +7262,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.309. do maggiore</subfield>
+    <subfield code="r">C </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">8</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.14v-16r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4694,9 +7305,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.302. do minore</subfield>
+    <subfield code="r">c </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">Sonata | 1</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.1v-3r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4719,9 +7348,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.317. fa maggiore</subfield>
+    <subfield code="r">F </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">16</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.30v-32r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4744,9 +7391,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.318. fa diesis maggiore</subfield>
+    <subfield code="r">Fx</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">17</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.32v-34r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4769,9 +7434,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.304. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">3</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.5v-6r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4791,9 +7474,23 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Boh©·me</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">BOHEME</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+    <subfield code="c">31 x 23 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">1 Parti </subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Boh©·me</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850725524</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-VIb</subfield>
@@ -4816,9 +7513,22 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Alma Redemptoris. Soprano,Orchestra. N.25. fa maggiore</subfield>
+    <subfield code="r">F </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">ALMA REDEMPTORIS, ANTIFONA</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a"> Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Alma Redemptoris</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">########</subfield>
@@ -4844,9 +7554,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.303. do minore</subfield>
+    <subfield code="r">c </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">2</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.3v-5r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4869,9 +7597,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.310. si bemolle maggiore</subfield>
+    <subfield code="r">Bb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">9</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.16v-18r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4894,9 +7640,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.305. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">4</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.6v-8r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
@@ -4919,9 +7683,22 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Triumphus Jepthe. N.21</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">TRIUMPHUS JEPHTE</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a"> Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Triumphus Jepthe</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">########</subfield>
@@ -4947,9 +7724,22 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Triumphus Jepthe. N.21</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">TRIUMPHUS JEPHTE</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a"> Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Triumphus Jepthe</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">########</subfield>
@@ -4975,9 +7765,22 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Alma Redemptoris. Contralto,Orchestra. N.18. la maggiore</subfield>
+    <subfield code="r">A </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">ALMA REDEMPTORIS</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a"> Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Alma Redemptoris</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">########</subfield>
@@ -5003,9 +7806,22 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Alma Redemptoris. Contralto,Orchestra. N.19. mi bemolle maggiore</subfield>
+    <subfield code="r">Eb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">ALMA REDEMPTORIS</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a"> Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Alma Redemptoris</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">########</subfield>
@@ -5031,9 +7847,22 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Alma Redemptoris. Soprano,Orchestra. N.27. sol maggiore</subfield>
+    <subfield code="r">G </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">ALMA REDEMPTORIS, ANTIFONA</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a"> Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Alma Redemptoris</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">########</subfield>
@@ -5059,9 +7888,22 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Alma Redemptoris. Contralto,Orchestra. N.19. mi bemolle maggiore</subfield>
+    <subfield code="r">Eb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">ALMA REDEMPTORIS, ANTIFONA</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a"> Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Alma Redemptoris</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">########</subfield>
@@ -5087,9 +7929,22 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Alma Redemptoris. Contralto,Orchestra. N.19. mi bemolle maggiore</subfield>
+    <subfield code="r">Eb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">ALMA REDEMPTORIS</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a"> Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Alma Redemptoris</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">########</subfield>
@@ -5115,9 +7970,22 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Lauda Jerusalem. Coro a 3 voci,Orchestra di archi. N.4. re maggiore</subfield>
+    <subfield code="r">D </subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">LAUDA JERUSALEM, SALMO 147</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">s.l.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parti</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a"> Parti</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Lauda Jerusalem</subfield>
   </datafield>
   <datafield tag="773" ind1=" " ind2=" ">
     <subfield code="w">########</subfield>
@@ -5143,9 +8011,27 @@
   </datafield>
   <datafield tag="240" ind1=" " ind2=" ">
     <subfield code="a">Sonate. Cembalo. K.311. si bemolle maggiore</subfield>
+    <subfield code="r">Bb</subfield>
   </datafield>
   <datafield tag="245" ind1=" " ind2=" ">
     <subfield code="a">10</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid </subfield>
+    <subfield code="c">1753</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">non applicabile</subfield>
+    <subfield code="c">260x370 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Libro 8.o, cc.18v-20r</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Sonate</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="w">850776190</subfield>
   </datafield>
   <datafield tag="852" ind1=" " ind2=" ">
     <subfield code="a">I-PAc</subfield>
