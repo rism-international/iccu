@@ -245,7 +245,7 @@ module Marcxml
     
     # Puts fullname in subfield $a if we have firstname in $b
     def concat_personal_name
-      fields = %w(100 700)
+      fields = %w(100 700 710)
       fields.each do |field|
         people = node.xpath("//marc:datafield[@tag='#{field}']", NAMESPACE)
         people.each do |person|

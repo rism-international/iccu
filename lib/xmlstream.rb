@@ -39,8 +39,8 @@ module Marcxml
       end
       #TODO Switch line break
       record_string = record.to_s.gsub("{{brk}}","&lt;br&gt;")
-       # .gsub("[","&lt;")
-       # .gsub("]","&gt;")
+        .gsub("\u0088","")
+        .gsub("\u0089","")
 
       doc = Nokogiri::XML.parse(record_string) do |config|
         config.noblanks

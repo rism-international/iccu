@@ -12,7 +12,7 @@ module Marcxml
     @@without_siglum = {}
     @@isil_codes = YAML.load_file("./utils/isil_codes.yml")
     @ids = YAML.load_file("./ids.yml")
-    @relator_codes = YAML.load_file("./lib/unimarc_relator_codes.yml")
+    @@relator_codes = YAML.load_file("./lib/unimarc_relator_codes.yml")
     class << self
       attr_accessor :refs, :ids, :relator_codes, :isil_codes, :without_siglum
     end
@@ -20,9 +20,9 @@ module Marcxml
     def initialize(node, namespace={'marc' => "http://www.loc.gov/MARC21/slim"})
       @namespace = namespace
       @node = node
-      @methods = [:map, :replace_rism_siglum, :insert_773_ref, :fix_id, :add_original_entry, 
-                  :concat_personal_name, :remove_whitespace_from_incipit,
-                  :update_title
+      @methods = [:map, :replace_rism_siglum, :insert_773_ref, :insert_774_ref, :collection_leader, :fix_id, :add_original_entry, 
+                  :concat_personal_name, :remove_whitespace_from_incipit, :change_leader, :change_relator_codes, :add_material_layer,
+                  :add_anonymus, :update_title
       ]
     end
 
@@ -35,6 +35,28 @@ module Marcxml
       datafields=node.xpath("//marc:datafield[@tag='245']", NAMESPACE)
       if datafields.empty?
         insert_datafield_with_subfield({tag: '245', code: 'a', content: "[without title]"})
+      end
+    end
+
+    def add_anonymus
+      leader=node.xpath("//marc:leader", NAMESPACE)[0]
+      unless leader.content[7] == "c"
+        composer=node.xpath("//marc:datafield[@tag='100']", NAMESPACE)
+        if composer.empty?
+          tag = Nokogiri::XML::Node.new "datafield", node
+          tag['tag'] = '100'
+          tag['ind1'] = '1'
+          tag['ind2'] = ' '
+          sfu = Nokogiri::XML::Node.new "subfield", node
+          sfu['code'] = 'a'
+          sfu.content = "Anonymus"
+          tag << sfu
+          sfz = Nokogiri::XML::Node.new "subfield", node
+          sfz['code'] = '0'
+          sfz.content = "30004985"
+          tag << sfz
+          node.root << tag
+        end
       end
     end
 
@@ -58,7 +80,7 @@ module Marcxml
     def change_relator_codes
       px = node.xpath("//marc:subfield[@code='4']", NAMESPACE)
       px.each do |p|
-        p.content = BNF.relator_codes[p.content]
+        p.content = @@relator_codes[p.content]
       end
 
     end
@@ -69,12 +91,13 @@ module Marcxml
         controlfield.content = Iccu.ids[controlfield.content]
       end
       #TODO find linking field
-      subfields = node.xpath("//marc:datafield[@tag='773']/marc:subfield[@code='w']", NAMESPACE)
+      subfields = node.xpath("//marc:datafield[@tag='773' or @tag='774']/marc:subfield[@code='w']", NAMESPACE)
+      binding.pry
       subfields.each do |subfield|
         if subfield.content.start_with?("001")
           collection_id_s = subfield.content[3..-1]
           unless Iccu.ids[collection_id_s]
-            collection_id = "########"
+            subfield.parent.remove
           else
             collection_id = Iccu.ids[collection_id_s]
           end
@@ -141,25 +164,55 @@ module Marcxml
       cfield.remove
     end
 
+    def collection_leader
+        refs = node.xpath("//marc:datafield[@tag='464']", NAMESPACE)
+        return 0 if refs.empty?
+        leader=node.xpath("//marc:leader", NAMESPACE)[0]
+        leader.content="00000ndc a2200000   4500"
+        refs.each do |ref|
+          ref.remove
+        end
+        binding.pry
+    end
 
     def insert_773_ref
-      refs = %w(461 463 464)
+      refs = %w(461 463)
       refs.each do |e|
         ref = node.xpath("//marc:datafield[@tag='#{e}']", NAMESPACE)
         next if ref.empty?
-        local_ref = ref.xpath("marc:subfield[@code='1']", NAMESPACE).first
+        ref.each do |r|
+          local_ref = r.xpath("marc:subfield[@code='1']", NAMESPACE).first
+          tag = Nokogiri::XML::Node.new "datafield", node
+          tag['tag'] = '773'
+          tag['ind1'] = ' '
+          tag['ind2'] = ' '
+          sfw = Nokogiri::XML::Node.new "subfield", node
+          sfw['code'] = 'w'
+          sfw.content = local_ref.content
+          tag << sfw
+          node.root << tag
+          ref.remove
+        end
+      end
+    end
+
+    def insert_774_ref
+      ref = node.xpath("//marc:datafield[@tag='464']", NAMESPACE)
+      return if ref.empty?
+      ref.each do |r|
+        local_ref = r.xpath("marc:subfield[@code='1']", NAMESPACE).first
         tag = Nokogiri::XML::Node.new "datafield", node
-        tag['tag'] = '773'
-        tag['ind1'] = ' '
-        tag['ind2'] = ' '
+        tag['tag'] = '774'
+        tag['ind1'] = '1'
+        tag['ind2'] = '8'
         sfw = Nokogiri::XML::Node.new "subfield", node
         sfw['code'] = 'w'
         sfw.content = local_ref.content
         tag << sfw
         node.root << tag
-        ref.remove
       end
     end
+
 
     def check_material
       result = Hash.new
@@ -203,17 +256,10 @@ module Marcxml
 
     def change_leader
       leader=node.xpath("//marc:leader", NAMESPACE)[0]
-      result=check_material
-      code = "n#{result[:type]}#{result[:level]}"
-      raise "Leader code #{code} false" unless code.size == 3
-      if leader
-        leader.content="00000#{code} a2200000   4500"
-      else
-        leader = Nokogiri::XML::Node.new "leader", node
-        leader.content="00000#{code} a2200000   4500"
-        node.root.children.first.add_previous_sibling(leader)
+      code = leader.content[5..7]
+      if code == 'nda'
+        leader.content="00000ndd a2200000   4500"
       end
-      leader
     end
 
 
@@ -338,11 +384,6 @@ module Marcxml
       subfield=node.xpath("//marc:datafield[@tag='593']/marc:subfield[@code='a']", NAMESPACE)
       subfield.each { |sf| sf.content = convert_593_abbreviation(sf.content) }
     end
-
- 
-
-
-
 
     def convert_593_abbreviation(str)
       case str
